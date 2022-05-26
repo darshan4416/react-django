@@ -1,0 +1,5978 @@
+[
+    {
+        "item_id": 5266,
+        "item_name": " Cherry Coke Zero Can "
+    },
+    {
+        "item_id": 5354,
+        "item_name": " Barq's Root Beer "
+    },
+    {
+        "item_id": 5444,
+        "item_name": " Jenny's Cheese Popcorn "
+    },
+    {
+        "item_id": 5524,
+        "item_name": " Porkie's Red Hot Pork Rinds "
+    },
+    {
+        "item_id": 5582,
+        "item_name": " Hostess Frosted Chocolate Donut "
+    },
+    {
+        "item_id": 5619,
+        "item_name": " Cascadian Farm Harvest Berry Chewy Granola Bar "
+    },
+    {
+        "item_id": 5675,
+        "item_name": " Cougar Mountain Old Fashioned Snickerdoodle Cookie "
+    },
+    {
+        "item_id": 5687,
+        "item_name": " O'Brien Beef 'n Cheese Stick "
+    },
+    {
+        "item_id": 5712,
+        "item_name": " Vicks Dayquil Cold & Flu Tablets "
+    },
+    {
+        "item_id": 5730,
+        "item_name": " Kashi Heart to Heart Apple Cinnamon Oatmeal "
+    },
+    {
+        "item_id": 5737,
+        "item_name": " Kitchen Fresh 1013 Sausage Pizza "
+    },
+    {
+        "item_id": 5738,
+        "item_name": " Kitchen Fresh 1045 Twin Biscuits "
+    },
+    {
+        "item_id": 5740,
+        "item_name": " Kitchen Fresh 925 Cheeseburger "
+    },
+    {
+        "item_id": 5741,
+        "item_name": " Kitchen Fresh 914 Submarine "
+    },
+    {
+        "item_id": 5742,
+        "item_name": " Kitchen Fresh 628 Tuna Salad On Wheat Sub "
+    },
+    {
+        "item_id": 5743,
+        "item_name": " Kitchen Fresh 885 Chicken Salad Wedge "
+    },
+    {
+        "item_id": 5744,
+        "item_name": " Kitchen Fresh 842 Pretzel Bites "
+    },
+    {
+        "item_id": 5746,
+        "item_name": " Kitchen Fresh 813 Strawberry Shortcake "
+    },
+    {
+        "item_id": 5747,
+        "item_name": " Kitchen Fresh 837 South Western Chicken Breast Sandwich "
+    },
+    {
+        "item_id": 5751,
+        "item_name": " Kitchen Fresh 783 Egg Salad On Whole Wheat Wedge "
+    },
+    {
+        "item_id": 5753,
+        "item_name": " Kitchen Fresh 820 Pepper-bacon"
+    },
+    {
+        "item_id": 5754,
+        "item_name": " Kitchen Fresh 943 Turkey & Swiss On 12 Grain Wheat "
+    },
+    {
+        "item_id": 5755,
+        "item_name": " Kitchen Fresh 951 Ham and American On 12 Grain Wheat "
+    },
+    {
+        "item_id": 5756,
+        "item_name": " Kitchen Fresh 752 Ham"
+    },
+    {
+        "item_id": 5757,
+        "item_name": " Kitchen Fresh 621 Turkey Pastrami Reuben On Wheat "
+    },
+    {
+        "item_id": 5758,
+        "item_name": " Kitchen Fresh 976 Jumbo All Beef Hot Dog w/ Onions "
+    },
+    {
+        "item_id": 5759,
+        "item_name": " Kitchen Fresh 781 Canadian Ham Egg Cheese Muffin "
+    },
+    {
+        "item_id": 5760,
+        "item_name": " Kitchen Fresh 948 Canteen Ham & Swiss Ciabatta "
+    },
+    {
+        "item_id": 5761,
+        "item_name": " Kitchen Fresh 644 Ham & Turkey 8in Sub w/ TLC "
+    },
+    {
+        "item_id": 5762,
+        "item_name": " Kitchen Fresh 651 Smothered Steak Sandwich "
+    },
+    {
+        "item_id": 5763,
+        "item_name": " Kitchen Fresh 853 Chicago Style Italian Beef "
+    },
+    {
+        "item_id": 5764,
+        "item_name": " Kitchen Fresh 825 Chicken Bowtie Pasta Salad "
+    },
+    {
+        "item_id": 5765,
+        "item_name": " Kitchen Fresh 780 Jalapeno Polish Sausage "
+    },
+    {
+        "item_id": 5766,
+        "item_name": " Kitchen Fresh 758 Wheat Bagel w/ Cream Cheese "
+    },
+    {
+        "item_id": 5767,
+        "item_name": " Kitchen Fresh 771 Chicken Salad on White Wedge "
+    },
+    {
+        "item_id": 5768,
+        "item_name": " Kitchen Fresh 977 Fish Filet w/ Cheese "
+    },
+    {
+        "item_id": 5769,
+        "item_name": " Kitchen Fresh 726 Jumbo Meatball Turano "
+    },
+    {
+        "item_id": 5770,
+        "item_name": " Kitchen Fresh 779 Turkey On 12 Grain Wheat "
+    },
+    {
+        "item_id": 5771,
+        "item_name": " Kitchen Fresh 972 Cheesy Grillwurst "
+    },
+    {
+        "item_id": 5773,
+        "item_name": " Kitchen Fresh 830 Grilled Turkey & Cheese "
+    },
+    {
+        "item_id": 5774,
+        "item_name": " Kitchen Fresh 814 Ham & Cheese Croissant "
+    },
+    {
+        "item_id": 5775,
+        "item_name": " Kitchen Fresh 606 Sausage French Bread Pizza "
+    },
+    {
+        "item_id": 5776,
+        "item_name": " Kitchen Fresh 800 Southwest Chicken Salad Wedge "
+    },
+    {
+        "item_id": 5777,
+        "item_name": " Kitchen Fresh 1022 Ham & Cheese Biscuit "
+    },
+    {
+        "item_id": 5778,
+        "item_name": " Kitchen Fresh 958 Ham & Cheddar Macaroni "
+    },
+    {
+        "item_id": 5779,
+        "item_name": " Kitchen Fresh 603 Philly Cheese Steak "
+    },
+    {
+        "item_id": 5781,
+        "item_name": " Kitchen Fresh 746 Pepperoni Pasta "
+    },
+    {
+        "item_id": 5782,
+        "item_name": " Kitchen Fresh 884 Tuna Salad Wedge "
+    },
+    {
+        "item_id": 5783,
+        "item_name": " Kitchen Fresh 688 Turkey Deli Wrap "
+    },
+    {
+        "item_id": 5784,
+        "item_name": " Kitchen Fresh 801 Jumbo Chili Dog "
+    },
+    {
+        "item_id": 5785,
+        "item_name": " Kitchen Fresh 1037 Carrot Snack Pack "
+    },
+    {
+        "item_id": 5786,
+        "item_name": " Kitchen Fresh 716 Fresh Melon Cup "
+    },
+    {
+        "item_id": 5787,
+        "item_name": " Kitchen Fresh 789 New York Mixed Berry Cheesecake Cup "
+    },
+    {
+        "item_id": 5788,
+        "item_name": " Kitchen Fresh 741 Deli Select on French Bread "
+    },
+    {
+        "item_id": 5789,
+        "item_name": " Kitchen Fresh 735 Deluxe Combo Sub "
+    },
+    {
+        "item_id": 5790,
+        "item_name": " Kitchen Fresh 905 Ham & Cheese On White Wedge "
+    },
+    {
+        "item_id": 5791,
+        "item_name": " Kitchen Fresh 812 Chocolate Peanut Butter Parfait "
+    },
+    {
+        "item_id": 5792,
+        "item_name": " Kitchen Fresh 729 Deli Favorite on Hoagie Bun "
+    },
+    {
+        "item_id": 5793,
+        "item_name": " Kitchen Fresh 1536 Jumbo Bacon Egg Cheese Burrito "
+    },
+    {
+        "item_id": 5794,
+        "item_name": " Kitchen Fresh 745 Garlic Pesto Chicken Wrap "
+    },
+    {
+        "item_id": 5795,
+        "item_name": " Kitchen Fresh 602 Soft Shell Taco Plate "
+    },
+    {
+        "item_id": 5796,
+        "item_name": " Kitchen Fresh 902 Tuna Salad White Wedge "
+    },
+    {
+        "item_id": 5797,
+        "item_name": " Kitchen Fresh 806 Turkey & Cheese Croissant "
+    },
+    {
+        "item_id": 5799,
+        "item_name": " Kitchen Fresh 829 Grilled Ham & Cheese "
+    },
+    {
+        "item_id": 5800,
+        "item_name": " Kitchen Fresh 652 Fresh Fruit Cup "
+    },
+    {
+        "item_id": 5801,
+        "item_name": " Kitchen Fresh 1547 Canadian Ham Egg and Cheese Croissant Hand-Wrapped "
+    },
+    {
+        "item_id": 5802,
+        "item_name": " Kitchen Fresh 909 Ham & Turkey Whole Wheat Sub "
+    },
+    {
+        "item_id": 5803,
+        "item_name": " Kitchen Fresh 1538 Sausage Egg Cheese Bagel "
+    },
+    {
+        "item_id": 5805,
+        "item_name": " Kitchen Fresh 1540 Sausage Egg Cheese Biscuit Hand-Wrapped "
+    },
+    {
+        "item_id": 5807,
+        "item_name": " Kitchen Fresh 795 Vegetable "
+    },
+    {
+        "item_id": 5808,
+        "item_name": " Kitchen Fresh 659 Premium Cut Smoked Turkey Sandwich "
+    },
+    {
+        "item_id": 5809,
+        "item_name": " Kitchen Fresh 823 Ham & American Cheese On 12 Grain Wheat "
+    },
+    {
+        "item_id": 5810,
+        "item_name": " Kitchen Fresh 718 Firey Chicken Fingers w/ Ranch "
+    },
+    {
+        "item_id": 5816,
+        "item_name": " White Castle Cheeseburger "
+    },
+    {
+        "item_id": 5834,
+        "item_name": " White Castle Early Starts Sausage"
+    },
+    {
+        "item_id": 5836,
+        "item_name": " Kitchen Fresh 733 Grilled Chicken Breast Sandwich "
+    },
+    {
+        "item_id": 5838,
+        "item_name": " Kitchen Fresh 999 Polish Sausage Sandwich "
+    },
+    {
+        "item_id": 5840,
+        "item_name": " Kitchen Fresh 693 Roast Beef Deli Wrap "
+    },
+    {
+        "item_id": 5841,
+        "item_name": " Kitchen Fresh 862 Garden Pasta Salad "
+    },
+    {
+        "item_id": 5842,
+        "item_name": " Kitchen Fresh 607 Oreo Pudding Parfait "
+    },
+    {
+        "item_id": 5843,
+        "item_name": " Kitchen Fresh 808 Chocolate Smores Cup "
+    },
+    {
+        "item_id": 5845,
+        "item_name": " Kitchen Fresh 799 Chicken Noodle Soup "
+    },
+    {
+        "item_id": 5847,
+        "item_name": " Kitchen Fresh 655 Turkey Pretzel Bread Sandwich "
+    },
+    {
+        "item_id": 5848,
+        "item_name": " 18th Street Deli Turkey on Wheat #928 "
+    },
+    {
+        "item_id": 5870,
+        "item_name": " Mrs. Freshleys Cinnabon Honey Bun "
+    },
+    {
+        "item_id": 5907,
+        "item_name": " Bayer Aspirin Take 2 "
+    },
+    {
+        "item_id": 5915,
+        "item_name": " Kitchen Fresh 931 Twin Chili Dogs "
+    },
+    {
+        "item_id": 5917,
+        "item_name": " Kitchen Fresh 998 Ham & Cheese Rye Wedge "
+    },
+    {
+        "item_id": 5918,
+        "item_name": " Kitchen Fresh 979 Ham & Turkey On 12 Grain Wheat "
+    },
+    {
+        "item_id": 5920,
+        "item_name": " Kitchen Fresh 707 Cinnamon Raisin Bagel w/ Cream Cheese "
+    },
+    {
+        "item_id": 5921,
+        "item_name": " Kitchen Fresh 870 Ham & Swiss Pretzel Delite "
+    },
+    {
+        "item_id": 5922,
+        "item_name": " Kitchen Fresh 658 Premium Cut Honey Ham Sandwich "
+    },
+    {
+        "item_id": 5923,
+        "item_name": " Kitchen Fresh 896 Roast Beef Onion Roll Stacker "
+    },
+    {
+        "item_id": 5924,
+        "item_name": " Kitchen Fresh 680 Turkey & Swiss Rye Wedge "
+    },
+    {
+        "item_id": 5925,
+        "item_name": " Kitchen Fresh 1046 Fruit Tray w/ Yogurt Dip "
+    },
+    {
+        "item_id": 5926,
+        "item_name": " Kitchen Fresh 920 Chicken Salad on Wheat Wedge "
+    },
+    {
+        "item_id": 5927,
+        "item_name": " Kitchen Fresh 675 Sausage Egg & Cheese Croissant "
+    },
+    {
+        "item_id": 5928,
+        "item_name": " Kitchen Fresh 786 Sausage"
+    },
+    {
+        "item_id": 5929,
+        "item_name": " Kitchen Fresh 928 Tuna Salad On Wheat Wedge "
+    },
+    {
+        "item_id": 5932,
+        "item_name": " Hellmanns Fat Free Italian Dressing "
+    },
+    {
+        "item_id": 5939,
+        "item_name": " Wisconsin Cheese Co Medium Cheddar Cheese "
+    },
+    {
+        "item_id": 5940,
+        "item_name": " Wisconsin Cheese Co Mozzarella String Cheese "
+    },
+    {
+        "item_id": 5948,
+        "item_name": " Newmans Own Balsamic Vinaigrette Dressing "
+    },
+    {
+        "item_id": 5955,
+        "item_name": " Sargento String Cheese "
+    },
+    {
+        "item_id": 5960,
+        "item_name": " Butcher Boy Beef & Bean Burrito "
+    },
+    {
+        "item_id": 5976,
+        "item_name": " Kitchen Fresh 886 Jumbo Cinnamon Roll "
+    },
+    {
+        "item_id": 5977,
+        "item_name": " Kitchen Fresh 662 Cheddarhead Brat "
+    },
+    {
+        "item_id": 5978,
+        "item_name": " Kitchen Fresh 966 Double Cheeseburger "
+    },
+    {
+        "item_id": 5979,
+        "item_name": " Kitchen Fresh 993 Egg n Muffin "
+    },
+    {
+        "item_id": 5981,
+        "item_name": " Kitchen Fresh 890 Sante Fe Turkey Kaiser "
+    },
+    {
+        "item_id": 5982,
+        "item_name": " Kitchen Fresh 663 Turkey & Mozzarella Panini "
+    },
+    {
+        "item_id": 5983,
+        "item_name": " Kitchen Fresh 831 Grilled Cheese "
+    },
+    {
+        "item_id": 5984,
+        "item_name": " Kitchen Fresh 939 Ham & Cheese Deluxe on Baked Bun "
+    },
+    {
+        "item_id": 5985,
+        "item_name": " Kitchen Fresh 646 Ham & Provolone Panini "
+    },
+    {
+        "item_id": 5986,
+        "item_name": " Kitchen Fresh 654 Grilled Texas Tuna Melt "
+    },
+    {
+        "item_id": 5987,
+        "item_name": " Kitchen Fresh 639 Canteen Italian Ciabatta "
+    },
+    {
+        "item_id": 5993,
+        "item_name": " Kitchen Fresh 915 Ham & Turkey 8in Submarine "
+    },
+    {
+        "item_id": 5994,
+        "item_name": " Kitchen Fresh 898 Chicken Salad Croissant "
+    },
+    {
+        "item_id": 5995,
+        "item_name": " Kitchen Fresh 667 Chorizo Sausage "
+    },
+    {
+        "item_id": 5996,
+        "item_name": " Kitchen Fresh 844 Loaded Burrito "
+    },
+    {
+        "item_id": 5997,
+        "item_name": " Kitchen Fresh 1530 Sausage Egg Cheese Muffin Hand-Wrapped "
+    },
+    {
+        "item_id": 5998,
+        "item_name": " Kitchen Fresh 1531 Ham Egg Cheese Muffin "
+    },
+    {
+        "item_id": 6000,
+        "item_name": " Kitchen Fresh 880 Veggies w/ Fat Free Ranch "
+    },
+    {
+        "item_id": 6001,
+        "item_name": " Kitchen Fresh 893 Vegetable Tray w/ Dill Dip "
+    },
+    {
+        "item_id": 6002,
+        "item_name": " Kitchen Fresh 894 Hard Boiled Egg Pack "
+    },
+    {
+        "item_id": 6003,
+        "item_name": " Kitchen Fresh 601 Pepperoni French Bread Pizza "
+    },
+    {
+        "item_id": 6004,
+        "item_name": " Kitchen Fresh 903 Egg Salad On White Wedge "
+    },
+    {
+        "item_id": 6005,
+        "item_name": " Kitchen Fresh 929 Ham"
+    },
+    {
+        "item_id": 6006,
+        "item_name": " Kitchen Fresh 682 Johnsonville Brat "
+    },
+    {
+        "item_id": 6007,
+        "item_name": " Kitchen Fresh 937 Sausage Egg & Cheese Muffin "
+    },
+    {
+        "item_id": 6008,
+        "item_name": " Kitchen Fresh 960 Hot Roast Beef 8in Submarine "
+    },
+    {
+        "item_id": 6009,
+        "item_name": " Kitchen Fresh 1044 Loaded Chicken Burrito "
+    },
+    {
+        "item_id": 6012,
+        "item_name": " Kitchen Fresh 618 Homestead Burger "
+    },
+    {
+        "item_id": 6013,
+        "item_name": " Kitchen Fresh 944 Pastrami Reuben "
+    },
+    {
+        "item_id": 6014,
+        "item_name": " Kitchen Fresh 762 Tuna Salad French Bread "
+    },
+    {
+        "item_id": 6015,
+        "item_name": " Kitchen Fresh 1012 Western Breakfast Bagel "
+    },
+    {
+        "item_id": 6016,
+        "item_name": " Kitchen Fresh 887 Hot - Chicken Enchilada "
+    },
+    {
+        "item_id": 6017,
+        "item_name": " Kitchen Fresh 750 Italian Chicken Breast "
+    },
+    {
+        "item_id": 6018,
+        "item_name": " Kitchen Fresh 897 Tuna Salad Croissant "
+    },
+    {
+        "item_id": 6019,
+        "item_name": " Kitchen Fresh 749 Roast Beef Ciabatta "
+    },
+    {
+        "item_id": 6020,
+        "item_name": " Kitchen Fresh 777 Ham Bacon Melt "
+    },
+    {
+        "item_id": 6021,
+        "item_name": " Kitchen Fresh 767 Monster Sub "
+    },
+    {
+        "item_id": 6022,
+        "item_name": " Kitchen Fresh 957 Tuna Macaroni Salad "
+    },
+    {
+        "item_id": 6023,
+        "item_name": " Kitchen Fresh 743 Grapes & Cheese "
+    },
+    {
+        "item_id": 6024,
+        "item_name": " Kitchen Fresh 961 BBQ Rib Sandwich "
+    },
+    {
+        "item_id": 6033,
+        "item_name": " Van Holten Hearty Dill Pickle #6 "
+    },
+    {
+        "item_id": 6038,
+        "item_name": " Posada Egg Sausage Cheese Burrito "
+    },
+    {
+        "item_id": 6041,
+        "item_name": " Hellmanns Blue Ribbon Creamy French Dressing "
+    },
+    {
+        "item_id": 6043,
+        "item_name": " Kitchen Fresh 1020 Ham & Provolone on Marble Rye "
+    },
+    {
+        "item_id": 6044,
+        "item_name": " Kitchen Fresh 1021 Turkey & Cheddar Whole Wheat with Mayo "
+    },
+    {
+        "item_id": 6045,
+        "item_name": " Kitchen Fresh 1049 Italian Sub "
+    },
+    {
+        "item_id": 6046,
+        "item_name": " Kitchen Fresh 1501 Jumbo Ham & Cheese "
+    },
+    {
+        "item_id": 6047,
+        "item_name": " Kitchen Fresh 1503 Jumbo Turkey & Cheese Wedge "
+    },
+    {
+        "item_id": 6048,
+        "item_name": " Kitchen Fresh 1519 Beef & String Cheese Sticks "
+    },
+    {
+        "item_id": 6050,
+        "item_name": " Kitchen Fresh 1779 Shaved Turkey on Wheat "
+    },
+    {
+        "item_id": 6051,
+        "item_name": " Kitchen Fresh 1783 Egg Salad on Wheat "
+    },
+    {
+        "item_id": 6052,
+        "item_name": " Kitchen Fresh 1903 Egg Salad on White Wedge "
+    },
+    {
+        "item_id": 6053,
+        "item_name": " Kitchen Fresh 1920 Chicken Salad on Wheat Wedge "
+    },
+    {
+        "item_id": 6054,
+        "item_name": " Kitchen Fresh 843 Country Club Sub "
+    },
+    {
+        "item_id": 6055,
+        "item_name": " Kitchen Fresh 864 Turkey & Cheddar Wrap "
+    },
+    {
+        "item_id": 6056,
+        "item_name": " Pierre Deluxe Spicy Breaded Chicken Breast Sandwich #11307 "
+    },
+    {
+        "item_id": 6070,
+        "item_name": " Cheetos Crunchy "
+    },
+    {
+        "item_id": 6073,
+        "item_name": " Kitchen Fresh 1067 Peach Yogurt Parfait "
+    },
+    {
+        "item_id": 6074,
+        "item_name": " Kitchen Fresh 1068 Strawberry Yogurt Parfait "
+    },
+    {
+        "item_id": 6075,
+        "item_name": " Kitchen Fresh 1069 Mixed Berry Yogurt Parfait "
+    },
+    {
+        "item_id": 6076,
+        "item_name": " Kitchen Fresh 1070 Egg Salad on Rye Deluxe "
+    },
+    {
+        "item_id": 6077,
+        "item_name": " Kitchen Fresh 1072 Tuna Salad Croissant Deluxe "
+    },
+    {
+        "item_id": 6078,
+        "item_name": " Kitchen Fresh 1073 Egg Salad Croissant Deluxe "
+    },
+    {
+        "item_id": 6079,
+        "item_name": " Kitchen Fresh 1074 Chicken Salad Croissant Deluxe "
+    },
+    {
+        "item_id": 6080,
+        "item_name": " Kitchen Fresh 1077 Ham Havarti on Pretzel Bread "
+    },
+    {
+        "item_id": 6081,
+        "item_name": " Kitchen Fresh 1820 Cold Cut Sub "
+    },
+    {
+        "item_id": 6087,
+        "item_name": " Broad Street Bakery Coconut Crunch Donut "
+    },
+    {
+        "item_id": 6088,
+        "item_name": " Kellogg Special K Fruit & Yogurt Cereal "
+    },
+    {
+        "item_id": 6090,
+        "item_name": " Coffee\n"
+    },
+    {
+        "item_id": 6091,
+        "item_name": " Coffee - Small\n"
+    },
+    {
+        "item_id": 6092,
+        "item_name": " Coffee - Large\n"
+    },
+    {
+        "item_id": 6093,
+        "item_name": " Fruit\n"
+    },
+    {
+        "item_id": 6094,
+        "item_name": " Salad\n"
+    },
+    {
+        "item_id": 6095,
+        "item_name": " Kellogg Low Fat Granola with Raisins "
+    },
+    {
+        "item_id": 6107,
+        "item_name": " Pierre Drive Thru Deluxe Cheeseburger with Ketchup & Mustard "
+    },
+    {
+        "item_id": 6110,
+        "item_name": " Kitchen Fresh 612 Chicken Caesar Wrap "
+    },
+    {
+        "item_id": 6111,
+        "item_name": " Kitchen Fresh 819 Gourmet Smoked Turkey Chipotle Wedge "
+    },
+    {
+        "item_id": 6112,
+        "item_name": " Kitchen Fresh 1015 Cobb Salad No Dressing "
+    },
+    {
+        "item_id": 6113,
+        "item_name": " Kitchen Fresh 1048 Gourmet Corned Beef on Rye "
+    },
+    {
+        "item_id": 6114,
+        "item_name": " Kitchen Fresh 1052 Chef Salad No Dressing "
+    },
+    {
+        "item_id": 6115,
+        "item_name": " Kitchen Fresh 1053 Italian Wrap "
+    },
+    {
+        "item_id": 6116,
+        "item_name": " Kitchen Fresh 1057 Loaded Pork Burrito "
+    },
+    {
+        "item_id": 6117,
+        "item_name": " Kitchen Fresh 1062 Chicken Spinach Salad with No Dressing "
+    },
+    {
+        "item_id": 6118,
+        "item_name": " Kitchen Fresh 1063 Egg Salad Deluxe "
+    },
+    {
+        "item_id": 6119,
+        "item_name": " Kitchen Fresh 1064 Chicken Salad Deluxe "
+    },
+    {
+        "item_id": 6120,
+        "item_name": " Kitchen Fresh 1065 Tuna Salad Deluxe "
+    },
+    {
+        "item_id": 6121,
+        "item_name": " Kitchen Fresh 1066 Caesar Salad with no Dressing "
+    },
+    {
+        "item_id": 6124,
+        "item_name": " Cap N Crunch Crunch Berries Cereal "
+    },
+    {
+        "item_id": 6126,
+        "item_name": " Glaceau Smart Water "
+    },
+    {
+        "item_id": 6131,
+        "item_name": " Rice A Roni Creamy Four Cheese "
+    },
+    {
+        "item_id": 6133,
+        "item_name": " White Castle Chicken Sandwiches "
+    },
+    {
+        "item_id": 6135,
+        "item_name": " Sabra Homestyle Medium Salsa with Tostitos Tortilla Chips "
+    },
+    {
+        "item_id": 6137,
+        "item_name": " Michelinas Meatloaf with Mashed Potatoes & Gravy "
+    },
+    {
+        "item_id": 6138,
+        "item_name": " Crystal Light Peach Iced Tea "
+    },
+    {
+        "item_id": 6139,
+        "item_name": " Crystal Light Strawberry Energy "
+    },
+    {
+        "item_id": 6140,
+        "item_name": " Kitchen Fresh 1078 Roast Beef & Cheddar Baguette Lettuce Tom Mayo "
+    },
+    {
+        "item_id": 6141,
+        "item_name": " Van Holten Big Papa Hearty Dill Pickle "
+    },
+    {
+        "item_id": 6142,
+        "item_name": " Alka-Seltzer Original "
+    },
+    {
+        "item_id": 6143,
+        "item_name": " Kitchen Fresh 1075 Ham Salad Croissant Deluxe "
+    },
+    {
+        "item_id": 6144,
+        "item_name": " Kitchen Fresh 1071 Ham Salad Deluxe "
+    },
+    {
+        "item_id": 6145,
+        "item_name": " Chapstick Cherry "
+    },
+    {
+        "item_id": 6146,
+        "item_name": " Dole Red Grapefruit Sunrise "
+    },
+    {
+        "item_id": 6157,
+        "item_name": " Yoplait Yogurt Light Fat Free Blueberry Patch "
+    },
+    {
+        "item_id": 6159,
+        "item_name": " Berry Buds White Earphones\n"
+    },
+    {
+        "item_id": 6168,
+        "item_name": " Kitchen Fresh 1076 Everything Bagel with Cream Cheese "
+    },
+    {
+        "item_id": 6181,
+        "item_name": " Pierre Turkey Ranch Burger "
+    },
+    {
+        "item_id": 6182,
+        "item_name": " Don Miguel Breakfast Burrito "
+    },
+    {
+        "item_id": 6183,
+        "item_name": " Blue Bunny Personals Bunny Tracks "
+    },
+    {
+        "item_id": 6185,
+        "item_name": " Big Bowl Panang Curry Sauce with Noodles & Chicken Stir Fry "
+    },
+    {
+        "item_id": 6193,
+        "item_name": " Soup - Small\n"
+    },
+    {
+        "item_id": 6194,
+        "item_name": " Soup - Large\n"
+    },
+    {
+        "item_id": 6195,
+        "item_name": " Entree\n"
+    },
+    {
+        "item_id": 6196,
+        "item_name": " Entree - Small\n"
+    },
+    {
+        "item_id": 6197,
+        "item_name": " Side - Small\n"
+    },
+    {
+        "item_id": 6198,
+        "item_name": " Side - Medium\n"
+    },
+    {
+        "item_id": 6199,
+        "item_name": " Blue Bunny Twin Pops "
+    },
+    {
+        "item_id": 6205,
+        "item_name": " Good To Go Alis Protein Pack "
+    },
+    {
+        "item_id": 6206,
+        "item_name": " Good To Go Boiled Eggs "
+    },
+    {
+        "item_id": 6207,
+        "item_name": " Good To Go Carrots & Celery with Peanut Butter "
+    },
+    {
+        "item_id": 6208,
+        "item_name": " Good To Go Cheese Cubes & Crackers "
+    },
+    {
+        "item_id": 6209,
+        "item_name": " Good To Go Chicken Salad on Wheat "
+    },
+    {
+        "item_id": 6210,
+        "item_name": " Good To Go Chinois Salad with Mandarin Oranges "
+    },
+    {
+        "item_id": 6211,
+        "item_name": " Good To Go Cinnamon Raisin Bagel with Cream Cheese "
+    },
+    {
+        "item_id": 6212,
+        "item_name": " Good To Go Cottage Cheese Cup "
+    },
+    {
+        "item_id": 6213,
+        "item_name": " Good To Go Cranberry Turkey on Sourdough "
+    },
+    {
+        "item_id": 6214,
+        "item_name": " Good To Go Ham & Egg Breakfast Sandwich "
+    },
+    {
+        "item_id": 6215,
+        "item_name": " Good To Go Ham & Swiss "
+    },
+    {
+        "item_id": 6216,
+        "item_name": " Good To Go La Bamba Salad "
+    },
+    {
+        "item_id": 6217,
+        "item_name": " Good To Go Penne al Pesto Pasta Salad "
+    },
+    {
+        "item_id": 6218,
+        "item_name": " Good To Go Roast Beef on Pretzel "
+    },
+    {
+        "item_id": 6219,
+        "item_name": " Good To Go Roasted Turkey & Muenster on Ciabatta "
+    },
+    {
+        "item_id": 6220,
+        "item_name": " Good To Go Sesame Bagel & Cream Cheese "
+    },
+    {
+        "item_id": 6221,
+        "item_name": " Good To Go Strawberry Yogurt Parfait "
+    },
+    {
+        "item_id": 6222,
+        "item_name": " Good To Go Tapioca Pudding & Cookies "
+    },
+    {
+        "item_id": 6223,
+        "item_name": " Good To Go Tri-Color Pasta Salad "
+    },
+    {
+        "item_id": 6224,
+        "item_name": " Good To Go Turkey & Pepper Cheese on Cracked Wheat "
+    },
+    {
+        "item_id": 6225,
+        "item_name": " Good To Go Turkey Ranch Wrap "
+    },
+    {
+        "item_id": 6226,
+        "item_name": " Good To Go Vanilla Yogurt Parfait "
+    },
+    {
+        "item_id": 6227,
+        "item_name": " Good To Go Vegetarian Chef Salad "
+    },
+    {
+        "item_id": 6228,
+        "item_name": " Good To Go Way 2 Go Mini Turkey/Ham Sandwiches "
+    },
+    {
+        "item_id": 6245,
+        "item_name": " Good To Go Vanilla Pudding with Cookies "
+    },
+    {
+        "item_id": 6246,
+        "item_name": " Good To Go Apples "
+    },
+    {
+        "item_id": 6247,
+        "item_name": " Good To Go Bananas "
+    },
+    {
+        "item_id": 6248,
+        "item_name": " Good To Go Oranges "
+    },
+    {
+        "item_id": 6249,
+        "item_name": " Good To Go Multigrain Bagel with Cream Cheese "
+    },
+    {
+        "item_id": 6250,
+        "item_name": " Good To Go Plain Bagel with Cream Cheese "
+    },
+    {
+        "item_id": 6251,
+        "item_name": " Good To Go Wheat Bagel with Cream Cheese "
+    },
+    {
+        "item_id": 6252,
+        "item_name": " Good To Go Peanut Butter & Jelly on White "
+    },
+    {
+        "item_id": 6253,
+        "item_name": " Good To Go Chef Salad with Turkey "
+    },
+    {
+        "item_id": 6254,
+        "item_name": " Good To Go Caesar Side Salad "
+    },
+    {
+        "item_id": 6256,
+        "item_name": " Good To Go Red Pepper Hummus & Pretzels "
+    },
+    {
+        "item_id": 6257,
+        "item_name": " Good To Go Traditional Hummus & Pretzels "
+    },
+    {
+        "item_id": 6258,
+        "item_name": " Good To Go Grapes Full Size "
+    },
+    {
+        "item_id": 6259,
+        "item_name": " Good To Go Pineapple Full Size "
+    },
+    {
+        "item_id": 6260,
+        "item_name": " Good To Go Mixed Fruit Full Size "
+    },
+    {
+        "item_id": 6261,
+        "item_name": " Good To Go Grapes Snack Size "
+    },
+    {
+        "item_id": 6262,
+        "item_name": " Good To Go Pineapple Snack Size "
+    },
+    {
+        "item_id": 6263,
+        "item_name": " Good To Go Mixed Fruit Snack Size "
+    },
+    {
+        "item_id": 6267,
+        "item_name": " Good To Go Carrots & Celery with Dill Dip "
+    },
+    {
+        "item_id": 6270,
+        "item_name": " Crystal Light Natural Lemon Iced Tea "
+    },
+    {
+        "item_id": 6274,
+        "item_name": " Edwards Pumpkin Pie "
+    },
+    {
+        "item_id": 6275,
+        "item_name": " Blue Bunny Vanilla Ice Cream Sandwich "
+    },
+    {
+        "item_id": 6277,
+        "item_name": " Good To Go Turkey on Wheat "
+    },
+    {
+        "item_id": 6279,
+        "item_name": " Good To Go Roast Beef on Ciabatta "
+    },
+    {
+        "item_id": 6283,
+        "item_name": " Blue Bunny Double Raspberry Frozen Yogurt "
+    },
+    {
+        "item_id": 6287,
+        "item_name": " Good To Go Little Dippers Deluxe Tuna Salad "
+    },
+    {
+        "item_id": 6288,
+        "item_name": " Good To Go Little Dippers "
+    },
+    {
+        "item_id": 6289,
+        "item_name": " Good To Go Little Dippers Deluxe Turkey "
+    },
+    {
+        "item_id": 6290,
+        "item_name": " Good To Go Chicken & Hummus Snack Box "
+    },
+    {
+        "item_id": 6291,
+        "item_name": " Good To Go Spinach Feta & Egg White Sandwich "
+    },
+    {
+        "item_id": 6292,
+        "item_name": " Good To Go BBQ Chicken Hot Sammy "
+    },
+    {
+        "item_id": 6294,
+        "item_name": " Good To Go Carrots & Celery with Light Ranch "
+    },
+    {
+        "item_id": 6295,
+        "item_name": " Good To Go Peter Piper Pasta Salad "
+    },
+    {
+        "item_id": 6296,
+        "item_name": " Good To Go BBQ Chicken Panini "
+    },
+    {
+        "item_id": 6297,
+        "item_name": " Good To Go Egg & Cheese Sandwich "
+    },
+    {
+        "item_id": 6298,
+        "item_name": " Good To Go Smoked Turkey & Egg Sandwich "
+    },
+    {
+        "item_id": 6299,
+        "item_name": " Good To Go Turkey Bacon & Egg Sandwich "
+    },
+    {
+        "item_id": 6300,
+        "item_name": " Good To Go Chicken Caesar Panini "
+    },
+    {
+        "item_id": 6301,
+        "item_name": " Good To Go Ham Panini "
+    },
+    {
+        "item_id": 6302,
+        "item_name": " Good To Go Roast Beef Panini "
+    },
+    {
+        "item_id": 6303,
+        "item_name": " Good To Go Chicken Cheese Peppers Tortilla "
+    },
+    {
+        "item_id": 6304,
+        "item_name": " Good To Go Pepper Cheese Flour Tortilla "
+    },
+    {
+        "item_id": 6305,
+        "item_name": " Good To Go Italian Baguette "
+    },
+    {
+        "item_id": 6306,
+        "item_name": " Good To Go Tuna Salad on Wheat "
+    },
+    {
+        "item_id": 6307,
+        "item_name": " Good To Go Chicken Fiesta Wrap "
+    },
+    {
+        "item_id": 6308,
+        "item_name": " Good To Go Mozzarella Tomato & Basil Wrap "
+    },
+    {
+        "item_id": 6309,
+        "item_name": " Good To Go Turkey Gouda Club Wrap "
+    },
+    {
+        "item_id": 6310,
+        "item_name": " Good To Go Chicken Caesar Salad "
+    },
+    {
+        "item_id": 6311,
+        "item_name": " Good To Go Rainbow Salad "
+    },
+    {
+        "item_id": 6312,
+        "item_name": " Good To Go Sarandos Vegetarian Greek Salad "
+    },
+    {
+        "item_id": 6313,
+        "item_name": " Good To Go Garden Side Salad "
+    },
+    {
+        "item_id": 6314,
+        "item_name": " Good To Go Carrots & Celery with Peanut Butter "
+    },
+    {
+        "item_id": 6315,
+        "item_name": " Good To Go Cheese Cubes & Crackers "
+    },
+    {
+        "item_id": 6316,
+        "item_name": " Good To Go Traditional Hummus & Pita Chips "
+    },
+    {
+        "item_id": 6318,
+        "item_name": " Good To Go Fiesta Turkey Hot Sammy "
+    },
+    {
+        "item_id": 6319,
+        "item_name": " Good To Go Little Dippers Deluxe Tuna Salad Full Size "
+    },
+    {
+        "item_id": 6320,
+        "item_name": " Good To Go Half Tuna Salad Sandwich with Caesar Salad "
+    },
+    {
+        "item_id": 6321,
+        "item_name": " Good To Go Half Three Cheese Sandwich with Garden Salad "
+    },
+    {
+        "item_id": 6322,
+        "item_name": " Good To Go Half Veggie Sandwich with Garden Salad "
+    },
+    {
+        "item_id": 6323,
+        "item_name": " Good To Go Half Turkey Ciabatta Sandwich with Caesar Salad "
+    },
+    {
+        "item_id": 6324,
+        "item_name": " Good To Go Half Ham & Swiss Ciabatta Sandwich with Garden Salad "
+    },
+    {
+        "item_id": 6325,
+        "item_name": " Good To Go Half Turkey on Wheat Sandwich with Garden Salad "
+    },
+    {
+        "item_id": 6326,
+        "item_name": " Good To Go Single Way 2 Go Turkey & Cheddar Cheese "
+    },
+    {
+        "item_id": 6327,
+        "item_name": " Good To Go Single Way 2 Go Ham & Pepper Cheese "
+    },
+    {
+        "item_id": 6328,
+        "item_name": " Good To Go Little Dippers Full Size "
+    },
+    {
+        "item_id": 6329,
+        "item_name": " Good To Go Little Dippers Deluxe Turkey Full Size "
+    },
+    {
+        "item_id": 6330,
+        "item_name": " Good To Go Smoke Turkey & Dill Havarti Panini "
+    },
+    {
+        "item_id": 6342,
+        "item_name": " Kitchen Fresh 1507 Ham & Pepperoni Wedge "
+    },
+    {
+        "item_id": 6345,
+        "item_name": " Cappuccino\n"
+    },
+    {
+        "item_id": 6346,
+        "item_name": " Kitchen Fresh 1079 Monte Cristo "
+    },
+    {
+        "item_id": 6348,
+        "item_name": " Kitchen Fresh 1089 Spicy Chili Bean Soup "
+    },
+    {
+        "item_id": 6351,
+        "item_name": " Kitchen Fresh 1090 Chicken Wild Rice Soup "
+    },
+    {
+        "item_id": 6352,
+        "item_name": " Kitchen Fresh 1091 Broccoli Cheese Soup "
+    },
+    {
+        "item_id": 6353,
+        "item_name": " Kitchen Fresh 1092 Vegetable Beef Soup "
+    },
+    {
+        "item_id": 6354,
+        "item_name": " Kitchen Fresh 1087 Chicken Dumpling Soup "
+    },
+    {
+        "item_id": 6355,
+        "item_name": " Kitchen Fresh 1088 Chicken Noodle Soup "
+    },
+    {
+        "item_id": 6356,
+        "item_name": " Good To Go Chicken Caesar Wrap "
+    },
+    {
+        "item_id": 6357,
+        "item_name": " Good To Go Pagoda Noodles "
+    },
+    {
+        "item_id": 6365,
+        "item_name": " Kellogg Special K Egg Vegetable & Pepper Jack Cheese Flatbread "
+    },
+    {
+        "item_id": 6366,
+        "item_name": " Kellogg Special K Sausage Egg & Cheese Flatbread "
+    },
+    {
+        "item_id": 6368,
+        "item_name": " White Castle Chicken Sandwich "
+    },
+    {
+        "item_id": 6376,
+        "item_name": " Kitchen Fresh 1058 Italian Bomber with Spicy Marinara Sauce "
+    },
+    {
+        "item_id": 6382,
+        "item_name": " Good To Go Cobb Salad "
+    },
+    {
+        "item_id": 6384,
+        "item_name": " Snickers Ice Cream Bar "
+    },
+    {
+        "item_id": 6386,
+        "item_name": " Good To Go Southwestern Salad "
+    },
+    {
+        "item_id": 6391,
+        "item_name": " Smart Ones Cheesy Scramble with Hashbrowns "
+    },
+    {
+        "item_id": 6392,
+        "item_name": " Smart Ones Three Cheese Omelet "
+    },
+    {
+        "item_id": 6395,
+        "item_name": " Fuji California Roll Rice Out Sushi "
+    },
+    {
+        "item_id": 6396,
+        "item_name": " Fuji Spicy Surimi Roll Sushi "
+    },
+    {
+        "item_id": 6397,
+        "item_name": " Fuji Supreme California Roll Sushi "
+    },
+    {
+        "item_id": 6400,
+        "item_name": " Anytime Deli Cold Cut Combo Flatbread "
+    },
+    {
+        "item_id": 6401,
+        "item_name": " Anytime Deli Turkey Bacon Club Flatbread "
+    },
+    {
+        "item_id": 6402,
+        "item_name": " Good To Go Way 2 Go Mini Chicken/Tuna Salad Sandwich "
+    },
+    {
+        "item_id": 6404,
+        "item_name": " Walkers Shortbread Fingers "
+    },
+    {
+        "item_id": 6405,
+        "item_name": " Walkers Shortbread Chocolate Chip "
+    },
+    {
+        "item_id": 6406,
+        "item_name": " Hormel Rev #2 Ham & Cheese "
+    },
+    {
+        "item_id": 6413,
+        "item_name": " Ready Pac BB Turkey Cranberry with Baby Kale Salad "
+    },
+    {
+        "item_id": 6416,
+        "item_name": " Ready Pac Chopped Italian Salad "
+    },
+    {
+        "item_id": 6417,
+        "item_name": " Ready Pac Kickin BBQ Salad "
+    },
+    {
+        "item_id": 6418,
+        "item_name": " Tinas Big Burrito Red Hot Beef "
+    },
+    {
+        "item_id": 6420,
+        "item_name": " Dannon Light & Fit Banana Cream Greek Yogurt "
+    },
+    {
+        "item_id": 6421,
+        "item_name": " Dannon Light & Fit Key Lime Greek Yogurt "
+    },
+    {
+        "item_id": 6425,
+        "item_name": " Rye Street Smoked Turkey Cranberry Sauce Italian Ciabatta "
+    },
+    {
+        "item_id": 6426,
+        "item_name": " Rye Street Turkey Chipotle Mayo Red Peppers on Ciabatta "
+    },
+    {
+        "item_id": 6427,
+        "item_name": " Rye Street Ham & Dijon Mustard Sesame Roll "
+    },
+    {
+        "item_id": 6428,
+        "item_name": " Rye Street Low Sodium Chicken Salad Seeded Roll "
+    },
+    {
+        "item_id": 6429,
+        "item_name": " Rye Street Fire Braised Pork Sesame Roll "
+    },
+    {
+        "item_id": 6430,
+        "item_name": " Rye Street Fire Braised Chicken Sesame Roll "
+    },
+    {
+        "item_id": 6431,
+        "item_name": " Rye Street Western Omelet Sesame Roll "
+    },
+    {
+        "item_id": 6432,
+        "item_name": " Rye Street Baked Chicken Chipotle Mayo Red Pepper Sesame Roll "
+    },
+    {
+        "item_id": 6433,
+        "item_name": " Rye Street Turkey Sausage & Egg on Bun "
+    },
+    {
+        "item_id": 6434,
+        "item_name": " Rye Street Vegetable Omelet on Wheat Ciabatta "
+    },
+    {
+        "item_id": 6435,
+        "item_name": " Rye Street Egg & Cheese on Bun "
+    },
+    {
+        "item_id": 6436,
+        "item_name": " Rye Street Cajun Pasta Alfredo "
+    },
+    {
+        "item_id": 6437,
+        "item_name": " Bimbo Mantecadas Muffins "
+    },
+    {
+        "item_id": 6438,
+        "item_name": " Bimbo Sugared Donuts Donas Azucaradas "
+    },
+    {
+        "item_id": 6439,
+        "item_name": " Marinela Pinguinos Cupcakes "
+    },
+    {
+        "item_id": 6443,
+        "item_name": " Hot Tea\n"
+    },
+    {
+        "item_id": 6444,
+        "item_name": " Reeses Peanut Butter Pumpkin "
+    },
+    {
+        "item_id": 6445,
+        "item_name": " Bimbo Bimbolete "
+    },
+    {
+        "item_id": 6447,
+        "item_name": " Panera Baked Potato Soup "
+    },
+    {
+        "item_id": 6448,
+        "item_name": " Panera Low Fat Chicken Noodle Soup "
+    },
+    {
+        "item_id": 6449,
+        "item_name": " Panera Chicken Tortilla Soup "
+    },
+    {
+        "item_id": 6450,
+        "item_name": " Panera Broccoli Cheddar Soup "
+    },
+    {
+        "item_id": 6451,
+        "item_name": " Panera Creamy Tomato Soup "
+    },
+    {
+        "item_id": 6452,
+        "item_name": " Panera Mac & Cheese "
+    },
+    {
+        "item_id": 6453,
+        "item_name": " Panera Black Bean Soup "
+    },
+    {
+        "item_id": 6455,
+        "item_name": " Coffee Mug\n"
+    },
+    {
+        "item_id": 6456,
+        "item_name": " Reeses Peanut Butter Tree "
+    },
+    {
+        "item_id": 6458,
+        "item_name": " Kitchen Fresh Ham & Swiss Ciabatta with Tomato & Parm Mayo "
+    },
+    {
+        "item_id": 6460,
+        "item_name": " Hersheys Milk Chocolate Santa "
+    },
+    {
+        "item_id": 6463,
+        "item_name": " Wisconsin Cheese Co Sharp Cheddar Stick "
+    },
+    {
+        "item_id": 6464,
+        "item_name": " Wisconsin Cheese Co Colby Jack Stick "
+    },
+    {
+        "item_id": 6465,
+        "item_name": " Wisconsin Cheese Co String Cheese "
+    },
+    {
+        "item_id": 6466,
+        "item_name": " Better Bakery Bacon & Chicken Club Pretzel Melt "
+    },
+    {
+        "item_id": 6467,
+        "item_name": " Walkers Shortbread Highlanders Twin Pack "
+    },
+    {
+        "item_id": 6468,
+        "item_name": " Walkers Mini Shortbread Rounds Bag "
+    },
+    {
+        "item_id": 6469,
+        "item_name": " Walkers Mini Shortbread Fingers Bag "
+    },
+    {
+        "item_id": 6470,
+        "item_name": " Walkersi Shortbread Chocolate Chip Rounds "
+    },
+    {
+        "item_id": 6471,
+        "item_name": " Walkersi Shortbread Ginger & Lemon Rounds "
+    },
+    {
+        "item_id": 6472,
+        "item_name": " Healthy Choice Cafe Steamers Orange Zest Chicken "
+    },
+    {
+        "item_id": 6474,
+        "item_name": " Tribe Tea Lemon "
+    },
+    {
+        "item_id": 6476,
+        "item_name": " Emergen-C Super Orange "
+    },
+    {
+        "item_id": 6477,
+        "item_name": " Coffee House Cafe Banana Walnut Loaf "
+    },
+    {
+        "item_id": 6478,
+        "item_name": " Coffee House Cafe Pumpkin Loaf "
+    },
+    {
+        "item_id": 6479,
+        "item_name": " Coffee House Cafe Lemon Loaf "
+    },
+    {
+        "item_id": 6482,
+        "item_name": " Better Bakery Pepperoni & Cheese Pretzel Melt "
+    },
+    {
+        "item_id": 6483,
+        "item_name": " Reeses Peanut Butter Egg "
+    },
+    {
+        "item_id": 6484,
+        "item_name": " Welchs Fruit Punch "
+    },
+    {
+        "item_id": 6485,
+        "item_name": " Welchs Grape Juice Cocktail "
+    },
+    {
+        "item_id": 6486,
+        "item_name": " Penafiel Mineral Spring Water "
+    },
+    {
+        "item_id": 6487,
+        "item_name": " Penafiel Fresa Strawberry "
+    },
+    {
+        "item_id": 6488,
+        "item_name": " Kitchen Fresh 1113 Loaded Buffalo Chicken Burrito "
+    },
+    {
+        "item_id": 6489,
+        "item_name": " Bimbo Donas Powdered Donuts "
+    },
+    {
+        "item_id": 6491,
+        "item_name": " Marinela Pastisetas Butter Cookies "
+    },
+    {
+        "item_id": 6496,
+        "item_name": " Cheesewich Colby Jack & Hard Salami "
+    },
+    {
+        "item_id": 6497,
+        "item_name": " Cheesewich Mild Cheddar & Hard Salami "
+    },
+    {
+        "item_id": 6498,
+        "item_name": " Kitchen Fresh 1081 Scrambled Eggs Canadian Bacon Hashbrowns "
+    },
+    {
+        "item_id": 6499,
+        "item_name": " Kitchen Fresh 1104 Pizzaburger "
+    },
+    {
+        "item_id": 6500,
+        "item_name": " Kitchen Fresh 1105 Turkey Fajita Wrap "
+    },
+    {
+        "item_id": 6501,
+        "item_name": " Kitchen Fresh 1107 Big Rib BBQ Sandwich "
+    },
+    {
+        "item_id": 6502,
+        "item_name": " Kitchen Fresh 1114  Loaded Chicken Bacon Ranch Burrito "
+    },
+    {
+        "item_id": 6503,
+        "item_name": " Kitchen Fresh 1115 Loaded White Chili Cheese Burrito "
+    },
+    {
+        "item_id": 6504,
+        "item_name": " Kitchen Fresh 1116 Loaded Chili Cheese Burrito "
+    },
+    {
+        "item_id": 6505,
+        "item_name": " Kitchen Fresh 1117 Apple & Caramel Dipper "
+    },
+    {
+        "item_id": 6506,
+        "item_name": " Kitchen Fresh 1118 Apple & Peanut Butter Dipper "
+    },
+    {
+        "item_id": 6507,
+        "item_name": " Kitchen Fresh 1119  Peaches & Cottage Cheese "
+    },
+    {
+        "item_id": 6508,
+        "item_name": " Kitchen Fresh 1120 Key Lime Parfait "
+    },
+    {
+        "item_id": 6509,
+        "item_name": " Kitchen Fresh 1121 Celery & Peanut Butter Dipper "
+    },
+    {
+        "item_id": 6510,
+        "item_name": " Kitchen Fresh 1122 Grapes & Cheese Cup "
+    },
+    {
+        "item_id": 6511,
+        "item_name": " Kitchen Fresh 1123 Spicy Chicken Biscuit "
+    },
+    {
+        "item_id": 6512,
+        "item_name": " Kitchen Fresh 1124 Hummus & Pretzels "
+    },
+    {
+        "item_id": 6513,
+        "item_name": " Kitchen Fresh 1541 Bacon Egg Cheese Croissant "
+    },
+    {
+        "item_id": 6514,
+        "item_name": " Kitchen Fresh 1542 Spicy Chicken & Cheddar Biscuit "
+    },
+    {
+        "item_id": 6516,
+        "item_name": " Hot Chocolate\n"
+    },
+    {
+        "item_id": 6517,
+        "item_name": " Kitchen Fresh 1099 Classic Footlong "
+    },
+    {
+        "item_id": 6520,
+        "item_name": " Pierre Signature Cheeseburger "
+    },
+    {
+        "item_id": 6525,
+        "item_name": " Red Bull Total Zero Wild Cherry Energy Drink "
+    },
+    {
+        "item_id": 6529,
+        "item_name": " Chilis Chicken Fajita Rice Bowl "
+    },
+    {
+        "item_id": 6530,
+        "item_name": " Fuji Edamame Salad "
+    },
+    {
+        "item_id": 6534,
+        "item_name": " Red Bull Blue Edition Energy Drink "
+    },
+    {
+        "item_id": 6535,
+        "item_name": " Red Bull Red Edition Cranberry Energy Drink "
+    },
+    {
+        "item_id": 6536,
+        "item_name": " Penafiel Manzanita Apple "
+    },
+    {
+        "item_id": 6538,
+        "item_name": " Twix Ghost "
+    },
+    {
+        "item_id": 6539,
+        "item_name": " Gevalia Mocha Iced Coffee with Almond Milk "
+    },
+    {
+        "item_id": 6541,
+        "item_name": " Penafiel Naranjada "
+    },
+    {
+        "item_id": 6542,
+        "item_name": " Kitchen Fresh 1141 Stuffed Tomato Chicken Salad "
+    },
+    {
+        "item_id": 6543,
+        "item_name": " Kitchen Fresh 1142 Stuffed Tomato Tuna Salad "
+    },
+    {
+        "item_id": 6545,
+        "item_name": " Tea's Tea Organic Lightly Sweet Peach Ginger Black Tea "
+    },
+    {
+        "item_id": 6546,
+        "item_name": " Sahale Mango Tango Almond Mix "
+    },
+    {
+        "item_id": 6549,
+        "item_name": " Kitchen Fresh 1146 Premium Grilled Chicken and Cheddar Sandwich "
+    },
+    {
+        "item_id": 6550,
+        "item_name": " Kitchen Fresh 1145 Ham Macaroni Pasta Bowl "
+    },
+    {
+        "item_id": 6551,
+        "item_name": " Kitchen Fresh 1144 Tuna Macaroni Pasta Bowl "
+    },
+    {
+        "item_id": 6552,
+        "item_name": " Kitchen Fresh 1143 Antipasto Rotini Pasta Salad "
+    },
+    {
+        "item_id": 6554,
+        "item_name": " LaCroix Mango Sparkling Water "
+    },
+    {
+        "item_id": 6556,
+        "item_name": " Van Holten Hot Mama Sassy Pickle\n"
+    },
+    {
+        "item_id": 6557,
+        "item_name": " Jack Links Chili Lime Beef Jerky "
+    },
+    {
+        "item_id": 6558,
+        "item_name": " Jack Links Kung Pao Beef Jerky "
+    },
+    {
+        "item_id": 6559,
+        "item_name": " Fritos "
+    },
+    {
+        "item_id": 6560,
+        "item_name": " Pirouline Chocolate Hazelnut "
+    },
+    {
+        "item_id": 6562,
+        "item_name": " Mrs. Freshleys Vanilla Icers Creme Filled Cake "
+    },
+    {
+        "item_id": 6563,
+        "item_name": " Deli Express Bold Roast Beef & Horseradish Sandwich "
+    },
+    {
+        "item_id": 6564,
+        "item_name": " Healthy Choice Golden Roasted Turkey Breast "
+    },
+    {
+        "item_id": 6571,
+        "item_name": " Sabra Guacamole Dip "
+    },
+    {
+        "item_id": 6573,
+        "item_name": " Sargento Balanced Breaks Natural White Cheddar Almonds Cranberries "
+    },
+    {
+        "item_id": 6575,
+        "item_name": " Silk Vanilla Cashew Milk "
+    },
+    {
+        "item_id": 6576,
+        "item_name": " Silk Dark Chocolate Almond Milk "
+    },
+    {
+        "item_id": 6577,
+        "item_name": " Silk Chocolate Cashew Milk "
+    },
+    {
+        "item_id": 6580,
+        "item_name": " Red Bull Orange Edition Tangerine Energy Drink "
+    },
+    {
+        "item_id": 6581,
+        "item_name": " Deli Express Spicy Chicken "
+    },
+    {
+        "item_id": 6582,
+        "item_name": " Deli Express Smoked Turkey Breast "
+    },
+    {
+        "item_id": 6583,
+        "item_name": " Quaker Cranberry Almond Breakfast Flats "
+    },
+    {
+        "item_id": 6584,
+        "item_name": " Quaker Banana Honey Nut Breakfast Flats "
+    },
+    {
+        "item_id": 6586,
+        "item_name": " Snickers Minis "
+    },
+    {
+        "item_id": 6587,
+        "item_name": " Snak Club Salted Cashews "
+    },
+    {
+        "item_id": 6588,
+        "item_name": " Halls Breezers Cool Berry "
+    },
+    {
+        "item_id": 6589,
+        "item_name": " Chobani Flip Salted Caramel Crunch "
+    },
+    {
+        "item_id": 6593,
+        "item_name": " Del Monte Fruit Naturals Citrus Salad "
+    },
+    {
+        "item_id": 6594,
+        "item_name": " Aquafina Sparkling Black Cherry Dragonfruit "
+    },
+    {
+        "item_id": 6595,
+        "item_name": " Gourmet To Go Twisted Pretzel Dog Jalapeno n Cheddar "
+    },
+    {
+        "item_id": 6596,
+        "item_name": " Pierre Classic Grilled Cheese Sandwich "
+    },
+    {
+        "item_id": 6597,
+        "item_name": " Krispy Kreme Mocha Iced Coffee "
+    },
+    {
+        "item_id": 6598,
+        "item_name": " Krispy Kreme Caramel Iced Coffee "
+    },
+    {
+        "item_id": 6599,
+        "item_name": " Krispy Kreme Vanilla Iced Coffee "
+    },
+    {
+        "item_id": 6600,
+        "item_name": " Maruchan Bowl Chicken Flavor "
+    },
+    {
+        "item_id": 6602,
+        "item_name": " Sargento Balanced Breaks Sharp Cheddar Sea Salt Cashew Cranberry "
+    },
+    {
+        "item_id": 6603,
+        "item_name": " Sargento Balanced Breaks Pepper Jack Honey Roasted Peanut Raisin "
+    },
+    {
+        "item_id": 6604,
+        "item_name": " Kitchen Fresh 1149 Turkey & Swiss on Cranberry "
+    },
+    {
+        "item_id": 6605,
+        "item_name": " Kitchen Fresh 1163 Chicken Chipotle Wrap "
+    },
+    {
+        "item_id": 6606,
+        "item_name": " Kitchen Fresh 1164 Club Wrap "
+    },
+    {
+        "item_id": 6607,
+        "item_name": " Goodness Knows Peach & Cherry Almond Dark Chocolate "
+    },
+    {
+        "item_id": 6608,
+        "item_name": " Stok Cold Brew Mocha Iced Coffee "
+    },
+    {
+        "item_id": 6609,
+        "item_name": " Stok Cold Brew Black Iced Coffee "
+    },
+    {
+        "item_id": 6612,
+        "item_name": " Tinos Sausage Egg Cheese Griddlecake "
+    },
+    {
+        "item_id": 6613,
+        "item_name": " Tinos Sausage Egg Cheese Breakfast Bake "
+    },
+    {
+        "item_id": 6615,
+        "item_name": " AKD 5in Pepperoni Pizza "
+    },
+    {
+        "item_id": 6616,
+        "item_name": " AKD 5in Supreme Pizza "
+    },
+    {
+        "item_id": 6617,
+        "item_name": " AKD Bagel Dogs "
+    },
+    {
+        "item_id": 6618,
+        "item_name": " AKD Vegetarian Egg Roll "
+    },
+    {
+        "item_id": 6619,
+        "item_name": " AKD Pretzel Dogs "
+    },
+    {
+        "item_id": 6620,
+        "item_name": " AKD Chicken Chimichanga "
+    },
+    {
+        "item_id": 6621,
+        "item_name": " AKD Chicken Tamales "
+    },
+    {
+        "item_id": 6622,
+        "item_name": " AKD Breakfast Burrito "
+    },
+    {
+        "item_id": 6623,
+        "item_name": " AKD 5in Sausage Pizza "
+    },
+    {
+        "item_id": 6624,
+        "item_name": " Great American Comfort Classics Salisbury Steak w/Mushroom Gravy "
+    },
+    {
+        "item_id": 6625,
+        "item_name": " Great American Comfort Classics Beef Meatballs Teriyaki "
+    },
+    {
+        "item_id": 6626,
+        "item_name": " Sabra Guacamole with Tostitos Rolls "
+    },
+    {
+        "item_id": 6627,
+        "item_name": " Limitless Original Cold Brew Coffee "
+    },
+    {
+        "item_id": 6629,
+        "item_name": " Elis Oreo Cookie Cheesecake "
+    },
+    {
+        "item_id": 6630,
+        "item_name": " Elis Chocolate Chip Cheesecake "
+    },
+    {
+        "item_id": 6631,
+        "item_name": " Elis Original Cheesecake "
+    },
+    {
+        "item_id": 6632,
+        "item_name": " Kitchen Fresh 1131 Sriracha Works Dog "
+    },
+    {
+        "item_id": 6633,
+        "item_name": " Kitchen Fresh 1133 1/4lb Sriracha Works Cheeseburger "
+    },
+    {
+        "item_id": 6634,
+        "item_name": " Kitchen Fresh 1134 Grilled Chicken with Sriracha Works Sauce "
+    },
+    {
+        "item_id": 6635,
+        "item_name": " Kitchen Fresh 1150 Sriracha Meatballs with Cheesy Rotini "
+    },
+    {
+        "item_id": 6637,
+        "item_name": " Hillshire Genoa Salame Small Plates "
+    },
+    {
+        "item_id": 6638,
+        "item_name": " Nature Valley Biscuits with Almond Butter "
+    },
+    {
+        "item_id": 6639,
+        "item_name": " Kitchen Fresh 1160 Enjoy Bacon Egg Cheddar Butter Croissant "
+    },
+    {
+        "item_id": 6640,
+        "item_name": " Kitchen Fresh 1161 Enjoy Blueberry Honey Greek Yogurt Parfait "
+    },
+    {
+        "item_id": 6641,
+        "item_name": " Kitchen Fresh 1159 Enjoy Egg Salad on Multigrain "
+    },
+    {
+        "item_id": 6642,
+        "item_name": " Kitchen Fresh 1191 Enjoy Ham Cheddar Arugula on White "
+    },
+    {
+        "item_id": 6643,
+        "item_name": " Kitchen Fresh 1194 Enjoy Honey Brussel Sprout Butternut Squash Pep "
+    },
+    {
+        "item_id": 6644,
+        "item_name": " zzzKitchen Fresh 1154 Enjoy Italian Cold Cut Ciabatta "
+    },
+    {
+        "item_id": 6645,
+        "item_name": " Kitchen Fresh 1180 Enjoy Pastrami Swiss Slaw on Pretzel Roll "
+    },
+    {
+        "item_id": 6646,
+        "item_name": " Kitchen Fresh 1189 Enjoy Peanut Butter & Strawberry Jam on Seed "
+    },
+    {
+        "item_id": 6647,
+        "item_name": " Kitchen Fresh 1185 Enjoy Pear Blue Cheese Walnut Cranberry Salad "
+    },
+    {
+        "item_id": 6648,
+        "item_name": " Kitchen Fresh 1201 Enjoy Sriracha Chicken Salad Wrap with Sriracha "
+    },
+    {
+        "item_id": 6649,
+        "item_name": " Kitchen Fresh 1156 Enjoy Turkey Cheddar Wrap "
+    },
+    {
+        "item_id": 6650,
+        "item_name": " Kitchen Fresh 1157 Enjoy Turkey Pepperjack Spinach Sourdough "
+    },
+    {
+        "item_id": 6651,
+        "item_name": " Kitchen Fresh 1152 Enjoy Winter Salad "
+    },
+    {
+        "item_id": 6652,
+        "item_name": " Kitchen Fresh 1151 Enjoy Buffalo Chicken Salad on Sourdough "
+    },
+    {
+        "item_id": 6653,
+        "item_name": " Kitchen Fresh 1184 Enjoy Chef Salad "
+    },
+    {
+        "item_id": 6654,
+        "item_name": " Kitchen Fresh 1155 Enjoy Grilled Chicken Caesar Wrap "
+    },
+    {
+        "item_id": 6655,
+        "item_name": " Kitchen Fresh 1173 Enjoy Chicken Salad Snack Pack "
+    },
+    {
+        "item_id": 6656,
+        "item_name": " Kitchen Fresh 1158 Enjoy Curried Chicken Salad Arugula on Flatbread "
+    },
+    {
+        "item_id": 6657,
+        "item_name": " Kitchen Fresh 1178 Enjoy Ham Swiss Spinach Marble Rye "
+    },
+    {
+        "item_id": 6658,
+        "item_name": " Kitchen Fresh 1196 Enjoy Mediterranean Salad "
+    },
+    {
+        "item_id": 6659,
+        "item_name": " Kitchen Fresh 1198 Enjoy Peruvian Potato Salad "
+    },
+    {
+        "item_id": 6660,
+        "item_name": " Kitchen Fresh 1175 Enjoy Roast Beef Cheddar Horseradish Mayo on Pret"
+    },
+    {
+        "item_id": 6661,
+        "item_name": " Kitchen Fresh 1199 Enjoy Spice Sweet Potato Black Bean Jalapeno Slaw"
+    },
+    {
+        "item_id": 6662,
+        "item_name": " Kitchen Fresh 1203 Enjoy Tropical Greek Yogurt Parfait "
+    },
+    {
+        "item_id": 6663,
+        "item_name": " Kitchen Fresh 1197 Enjoy Tuna Salad on Multrigrain "
+    },
+    {
+        "item_id": 6664,
+        "item_name": " Kitchen Fresh 1186 Enjoy Turkey Cranberry Brie Spinach on Seedlic "
+    },
+    {
+        "item_id": 6665,
+        "item_name": " Kitchen Fresh 1179 Enjoy Sausage Egg Pepperjack on Flatbread "
+    },
+    {
+        "item_id": 6666,
+        "item_name": " Kitchen Fresh 1187 Enjoy Antipasto Snack Tray "
+    },
+    {
+        "item_id": 6667,
+        "item_name": " Kitchen Fresh 1183 Enjoy Grilled Chicken Caesar Salad "
+    },
+    {
+        "item_id": 6668,
+        "item_name": " Kitchen Fresh 1195 Enjoy Chicken Salad on Multigrain "
+    },
+    {
+        "item_id": 6669,
+        "item_name": " Kitchen Fresh 1190 Enjoy Chorizo Breakfast Burrito "
+    },
+    {
+        "item_id": 6670,
+        "item_name": " Kitchen Fresh 1177 Enjoy Ham & Cheese on White "
+    },
+    {
+        "item_id": 6671,
+        "item_name": " Kitchen Fresh 1193 Enjoy Granny Smith Apple Feta Walnut Cranberry "
+    },
+    {
+        "item_id": 6672,
+        "item_name": " Kitchen Fresh 1174 Enjoy Grilled Chicken Lemon Aioli Arugula Focac "
+    },
+    {
+        "item_id": 6673,
+        "item_name": " Kitchen Fresh 1202 Enjoy Strawberry Honey Greek Yogurt Parfait "
+    },
+    {
+        "item_id": 6674,
+        "item_name": " Kitchen Fresh 1188 Enjoy Tuna Salad on Seedlicious "
+    },
+    {
+        "item_id": 6675,
+        "item_name": " Kitchen Fresh 1181 Enjoy Roasted Turkey Applewood Bacon Wrap "
+    },
+    {
+        "item_id": 6676,
+        "item_name": " Kitchen Fresh 1176 Enjoy Turkey Brie Applebutter on Ciabatta "
+    },
+    {
+        "item_id": 6677,
+        "item_name": " Elis Strawberry Swirl Cheesecake "
+    },
+    {
+        "item_id": 6678,
+        "item_name": " Great American Comfort Classics Beef Meatballs w/BBQ Sauce "
+    },
+    {
+        "item_id": 6679,
+        "item_name": " Great American Comfort Classics Beef Meatballs w/Tomato Glaze "
+    },
+    {
+        "item_id": 6680,
+        "item_name": " Life Wtr Purified Water ph Balance "
+    },
+    {
+        "item_id": 6681,
+        "item_name": " Best Nuts & Fruits Raisin Nut Mix "
+    },
+    {
+        "item_id": 6682,
+        "item_name": " Best Nuts & Fruits Sweet & Spicy Mix "
+    },
+    {
+        "item_id": 6683,
+        "item_name": " Best Nuts & Fruits Honey Roasted Peanuts "
+    },
+    {
+        "item_id": 6684,
+        "item_name": " Best Nuts & Fruits Sweet & Spicy Peanuts "
+    },
+    {
+        "item_id": 6685,
+        "item_name": " Best Nuts & Fruits Yogurt Covered Pretzels "
+    },
+    {
+        "item_id": 6686,
+        "item_name": " Best Nuts & Fruits Salted Sunflower Kernels "
+    },
+    {
+        "item_id": 6687,
+        "item_name": " Best Nuts & Fruits Salted Peanuts "
+    },
+    {
+        "item_id": 6688,
+        "item_name": " Best Nuts & Fruits Raisin Nut Mix "
+    },
+    {
+        "item_id": 6690,
+        "item_name": " Big AZ Cheeseburger "
+    },
+    {
+        "item_id": 6691,
+        "item_name": " Kitchen Fresh 1083 Gyro Flatbread Sandwich "
+    },
+    {
+        "item_id": 6692,
+        "item_name": " Kitchen Fresh 1085 Caramelized Chicken Burger "
+    },
+    {
+        "item_id": 6693,
+        "item_name": " Kitchen Fresh 1095 Chicken SLD Flatbread Sandwich "
+    },
+    {
+        "item_id": 6694,
+        "item_name": " Kitchen Fresh 1096 Turkey Swiss Bacon Flatbread Sandwich "
+    },
+    {
+        "item_id": 6695,
+        "item_name": " Kitchen Fresh 1097 Smoked Turkey Havarti Flatbread Sandwich "
+    },
+    {
+        "item_id": 6696,
+        "item_name": " Kitchen Fresh 1125  Loaded Breakfast Burrito "
+    },
+    {
+        "item_id": 6697,
+        "item_name": " Kitchen Fresh 1135 Turkey & Mozzarella Focaccia "
+    },
+    {
+        "item_id": 6698,
+        "item_name": " Kitchen Fresh 1136 Ham & Provlone Focaccia "
+    },
+    {
+        "item_id": 6699,
+        "item_name": " Kitchen Fresh 1137 Italian Focaccia "
+    },
+    {
+        "item_id": 6700,
+        "item_name": " Kitchen Fresh 1138 Honey Ham Swiss Focaccia "
+    },
+    {
+        "item_id": 6701,
+        "item_name": " Kitchen Fresh 1139 Bacon Cheddar Pub Burger "
+    },
+    {
+        "item_id": 6702,
+        "item_name": " Kitchen Fresh 1140 Gourmet Chicken Bacon Ranch Wrap "
+    },
+    {
+        "item_id": 6703,
+        "item_name": " Kitchen Fresh 1543 Bacon Egg Cheese Flatbread "
+    },
+    {
+        "item_id": 6704,
+        "item_name": " Kitchen Fresh 1913 Chuckwagon "
+    },
+    {
+        "item_id": 6706,
+        "item_name": " Smart Ones Ham & Cheese Scramble "
+    },
+    {
+        "item_id": 6707,
+        "item_name": " Chudleighs Apple Blossom "
+    },
+    {
+        "item_id": 6708,
+        "item_name": " Boston Market Chicken Parmesan "
+    },
+    {
+        "item_id": 6712,
+        "item_name": " Mrs. Freshleys Banana Nut Muffin "
+    },
+    {
+        "item_id": 6713,
+        "item_name": " Aquafina Sparkling Mango Pineapple "
+    },
+    {
+        "item_id": 6714,
+        "item_name": " Mrs. Freshleys Blueberry Muffin "
+    },
+    {
+        "item_id": 6720,
+        "item_name": " LemonLemon Sparkling Peach Lemonade "
+    },
+    {
+        "item_id": 6721,
+        "item_name": " LemonLemon Sparkling Blackberry Lemonade "
+    },
+    {
+        "item_id": 6723,
+        "item_name": " Kitchen Fresh 1204 Enjoy Smoked Turkey Basil Brie Sweet Pepper Flat "
+    },
+    {
+        "item_id": 6724,
+        "item_name": " Kitchen Fresh 1205 Enjoy Spicy Tuscan Garlic Aioli Mozzarella Ciab "
+    },
+    {
+        "item_id": 6725,
+        "item_name": " Kitchen Fresh 1206 Enjoy Spring Garden Salad "
+    },
+    {
+        "item_id": 6726,
+        "item_name": " Kitchen Fresh 1207 Enjoy Strawberry Bacon Feta Spinach Salad "
+    },
+    {
+        "item_id": 6727,
+        "item_name": " Kitchen Fresh 1213 Enjoy Spicy Asian Vegetarian Wrap "
+    },
+    {
+        "item_id": 6728,
+        "item_name": " Kitchen Fresh 1214 Enjoy Ham Cheddar Arugula on Sourdough "
+    },
+    {
+        "item_id": 6729,
+        "item_name": " Kitchen Fresh 1215 Enjoy Curry Roasted Vegetables Cous Cous Raisins "
+    },
+    {
+        "item_id": 6730,
+        "item_name": " Kitchen Fresh 1216 Enjoy Ham Gouda Sweet Spicy Mustard French Roll "
+    },
+    {
+        "item_id": 6731,
+        "item_name": " Kitchen Fresh 1217 Enjoy Smoked Turkey Cheddar Spinach Marble Rye "
+    },
+    {
+        "item_id": 6732,
+        "item_name": " Kitchen Fresh 1218 Enjoy Spring Quinoa & Asparagus Salad "
+    },
+    {
+        "item_id": 6733,
+        "item_name": " Kitchen Fresh 1219 Enjoy Lemon Parmesan Chickpea Salad "
+    },
+    {
+        "item_id": 6734,
+        "item_name": " LemonLemon Sparkling Original Lemonade "
+    },
+    {
+        "item_id": 6735,
+        "item_name": " Starbucks Cold Brew Cocoa & Honey "
+    },
+    {
+        "item_id": 6737,
+        "item_name": " Hillshire Wine Infused Salame Small Plate "
+    },
+    {
+        "item_id": 6738,
+        "item_name": " Argires Gourmet Artisan Cheese Popcorn "
+    },
+    {
+        "item_id": 6739,
+        "item_name": " Core Hydration Perfect pH Water"
+    },
+    {
+        "item_id": 6740,
+        "item_name": " Zone Salted Caramel Brownie Bar "
+    },
+    {
+        "item_id": 6741,
+        "item_name": " Hersheys Take 5 Snack Mix "
+    },
+    {
+        "item_id": 6742,
+        "item_name": " Monster Energy Ultra Violet "
+    },
+    {
+        "item_id": 6743,
+        "item_name": " FOODA Food Item $3.00\n"
+    },
+    {
+        "item_id": 6744,
+        "item_name": " FOODA Food Item $4.00\n"
+    },
+    {
+        "item_id": 6745,
+        "item_name": " FOODA Food Item $5.00\n"
+    },
+    {
+        "item_id": 6746,
+        "item_name": " FOODA Food Item $6.00\n"
+    },
+    {
+        "item_id": 6747,
+        "item_name": " FOODA Food Item $7.00\n"
+    },
+    {
+        "item_id": 6748,
+        "item_name": " Dairy Pure Vitamin D Whole Milk "
+    },
+    {
+        "item_id": 6749,
+        "item_name": " Snickers Egg "
+    },
+    {
+        "item_id": 6750,
+        "item_name": " Twix Egg "
+    },
+    {
+        "item_id": 6751,
+        "item_name": " Milky Way Bunny "
+    },
+    {
+        "item_id": 6754,
+        "item_name": " Kind Honey Roasted Nut & Sea Salt "
+    },
+    {
+        "item_id": 6755,
+        "item_name": " FOODA Food Item $8.00\n"
+    },
+    {
+        "item_id": 6756,
+        "item_name": " FOODA Food Item $9.00\n"
+    },
+    {
+        "item_id": 6757,
+        "item_name": " Mountain Dew Kickstart Watermelon "
+    },
+    {
+        "item_id": 6758,
+        "item_name": " Tinas Red Hot Beef Burrito "
+    },
+    {
+        "item_id": 6760,
+        "item_name": " Tai Pei Beef & Broccoli "
+    },
+    {
+        "item_id": 6761,
+        "item_name": " Tai Pei Chicken Fried Rice "
+    },
+    {
+        "item_id": 6763,
+        "item_name": " IZZE Sparkling Peach Juice "
+    },
+    {
+        "item_id": 6764,
+        "item_name": " Kitchen Fresh 1220 Egg Bacon & Pepper Burrito "
+    },
+    {
+        "item_id": 6765,
+        "item_name": " Kitchen Fresh 1221 Enjoy BBQ Chicken with Jalapeno Slaw on Torta "
+    },
+    {
+        "item_id": 6766,
+        "item_name": " Kitchen Fresh 1222 Enjoy Peppered Mozzarella Tomato Salad Bal Vin "
+    },
+    {
+        "item_id": 6767,
+        "item_name": " Kitchen Fresh 1223 Spicy Tuscan Fresh Mozz Garlic Aioli Ciabatta "
+    },
+    {
+        "item_id": 6768,
+        "item_name": " Red Bird Peppermint Puffs "
+    },
+    {
+        "item_id": 6769,
+        "item_name": " zzzLipton PureLeaf Unsweetened Black Tea "
+    },
+    {
+        "item_id": 6770,
+        "item_name": " Jays Ridged Open Pit BBQ "
+    },
+    {
+        "item_id": 6771,
+        "item_name": " Chobani Flip Smore Smores "
+    },
+    {
+        "item_id": 6774,
+        "item_name": " Snapple Mango Madness PL "
+    },
+    {
+        "item_id": 6775,
+        "item_name": " Kitchen Fresh 1224 Enjoy Grilled Chicken Watermelon Feta Cucumber "
+    },
+    {
+        "item_id": 6776,
+        "item_name": " Kitchen Fresh 1225 Enjoy Chicken Salad Arugula on Marble Rye "
+    },
+    {
+        "item_id": 6777,
+        "item_name": " Kitchen Fresh 1226 Enjoy Caprese Baguette "
+    },
+    {
+        "item_id": 6778,
+        "item_name": " Quaker Life Cinnamon Cereal "
+    },
+    {
+        "item_id": 6779,
+        "item_name": " Cap N Crunch Cereal "
+    },
+    {
+        "item_id": 6783,
+        "item_name": " Sahale Valdosta Pecans Glazed Mix "
+    },
+    {
+        "item_id": 6784,
+        "item_name": " Kitchen Fresh 1227 Enjoy American Harvest Salad "
+    },
+    {
+        "item_id": 6785,
+        "item_name": " Kitchen Fresh 1228 Enjoy Grilled Chicken Pepperjack Black Bean Salsa"
+    },
+    {
+        "item_id": 6786,
+        "item_name": " Sahale Tangerine Cashew with Vanilla & Mango Bar "
+    },
+    {
+        "item_id": 6787,
+        "item_name": " Doritos Salsa Verde "
+    },
+    {
+        "item_id": 6789,
+        "item_name": " Kitchen Fresh 1165 Chicken Salad & Wild Rice & Cranberry Wedge "
+    },
+    {
+        "item_id": 6791,
+        "item_name": " Grand Prairie Pepperoni Calzone "
+    },
+    {
+        "item_id": 6792,
+        "item_name": " Kitchen Fresh 1230 Enjoy Buffalo Chicken Wrap "
+    },
+    {
+        "item_id": 6793,
+        "item_name": " Kitchen Fresh 1231 Peach Yogurt Parfait "
+    },
+    {
+        "item_id": 6794,
+        "item_name": " Kitchen Fresh 1232 Enjoy Chicken Fajita Breakfast Burrito"
+    },
+    {
+        "item_id": 6795,
+        "item_name": " Kitchen Fresh 1233 Enjoy Autumn Crisp Salad "
+    },
+    {
+        "item_id": 6796,
+        "item_name": " Niagara Purified Drinking Water "
+    },
+    {
+        "item_id": 6797,
+        "item_name": " Forto Hershey Chocolate Coffee Shots "
+    },
+    {
+        "item_id": 6802,
+        "item_name": " Mountain Dew Ice "
+    },
+    {
+        "item_id": 6803,
+        "item_name": " Kitchen Fresh 1245 Pepperoni French Bread Pizza "
+    },
+    {
+        "item_id": 6804,
+        "item_name": " Kitchen Fresh 1246 Sausage French Bread Pizza "
+    },
+    {
+        "item_id": 6805,
+        "item_name": " Diet Coke Ginger Lime "
+    },
+    {
+        "item_id": 6806,
+        "item_name": " Reeses Peanut Butter Hearts King Size "
+    },
+    {
+        "item_id": 6807,
+        "item_name": " Dannon Oikos Mixed Berry Yogurt Drink "
+    },
+    {
+        "item_id": 6808,
+        "item_name": " Kitchen Fresh 1243 Enjoy Cajun Chicken Caesar Salad Blackened Sweet "
+    },
+    {
+        "item_id": 6809,
+        "item_name": " Kitchen Fresh 1244 Enjoy Sonoma Chicken Salad in Spinach Herb Wrap "
+    },
+    {
+        "item_id": 6814,
+        "item_name": " Kitchen Fresh 1251 Enjoy Egg & Veggie Breakfast Burrito "
+    },
+    {
+        "item_id": 6817,
+        "item_name": " Chefs Cut Original Smokehouse Beef & Pork Stick "
+    },
+    {
+        "item_id": 6818,
+        "item_name": " Jarritos Sidral Mundet Apple "
+    },
+    {
+        "item_id": 6819,
+        "item_name": " Grand Prairie Grilled Buffalo Chicken Pepperjack on Brioche "
+    },
+    {
+        "item_id": 6820,
+        "item_name": " Kitchen Fresh 1257 Enjoy Pork Banh Mi with Spicy Slaw "
+    },
+    {
+        "item_id": 6821,
+        "item_name": " Jarritos Mandarin "
+    },
+    {
+        "item_id": 6822,
+        "item_name": " Chilly Cow Brown Butter Salted Caramel Ice Cream "
+    },
+    {
+        "item_id": 6823,
+        "item_name": " Blue Bunny Load'd Sundaes Chocolate Brownie Bomb Ice Cream "
+    },
+    {
+        "item_id": 6824,
+        "item_name": " Bang Cotton Candy Potent Brain & Body Fuel "
+    },
+    {
+        "item_id": 6825,
+        "item_name": " Grand Prairie Flame Broiled Beef Pattie with Cheese "
+    },
+    {
+        "item_id": 6828,
+        "item_name": " Chobani Strawberry Banana Greek Yogurt Drink "
+    },
+    {
+        "item_id": 6829,
+        "item_name": " Kitchen Fresh 1259 Enjoy Sonoma Chicken Salad Cranberries Honey Wlnt"
+    },
+    {
+        "item_id": 6830,
+        "item_name": " Niagara Purified Drinking Water "
+    },
+    {
+        "item_id": 6831,
+        "item_name": " Kitchen Fresh 1261 Enjoy Roasted Turkey BLT Chipotle Dip Sauce "
+    },
+    {
+        "item_id": 6832,
+        "item_name": " Kitchen Fresh 1262 Enjoy Summer Roasted Vegetable & Hummus Wrap "
+    },
+    {
+        "item_id": 6833,
+        "item_name": " Kitchen Fresh 1263 Enjoy Chicago Italian Salad Sweet Italian "
+    },
+    {
+        "item_id": 6834,
+        "item_name": " Chicago Mikes Pepperoni Deep Dish Pizza "
+    },
+    {
+        "item_id": 6835,
+        "item_name": " Chicago Mikes Sausage Deep Dish Pizza "
+    },
+    {
+        "item_id": 6836,
+        "item_name": " Chefs Cut Original Beef Jerky "
+    },
+    {
+        "item_id": 6837,
+        "item_name": " Jimmy Dean Protein Pack Boiled Egg Ham Colby Jack Cheese "
+    },
+    {
+        "item_id": 6838,
+        "item_name": " Kitchen Fresh 1154 Enjoy The Cubano "
+    },
+    {
+        "item_id": 6839,
+        "item_name": " Sabra Breakfast Avocado Toast "
+    },
+    {
+        "item_id": 6840,
+        "item_name": " Kitchen Fresh 1266 Enjoy Grilled Chicken Caesar Wrap "
+    },
+    {
+        "item_id": 6841,
+        "item_name": " Kitchen Fresh 1267 Enjoy Chef Salad with Ranch Dressing  "
+    },
+    {
+        "item_id": 6842,
+        "item_name": " Kitchen Fresh 1268 Enjoy Pepperoni Cheese Seasonal Fruit Snack "
+    },
+    {
+        "item_id": 6843,
+        "item_name": " Popchips Nutter Puffs Peanut Butter "
+    },
+    {
+        "item_id": 6844,
+        "item_name": " Kitchen Fresh 1269 Enjoy Gridiron Salad with Buffalo Ranch "
+    },
+    {
+        "item_id": 6845,
+        "item_name": " Kitchen Fresh 1270 Enjoy Zesty Italian Spinach Wrap "
+    },
+    {
+        "item_id": 6846,
+        "item_name": " Divvies Chocolate Chip Cookie "
+    },
+    {
+        "item_id": 6847,
+        "item_name": " Divvies Oatmeal Raisin Cookie "
+    },
+    {
+        "item_id": 6848,
+        "item_name": " Divvies Chocolate Brownie Cookie "
+    },
+    {
+        "item_id": 6849,
+        "item_name": " Kitchen Fresh 1274 Enjoy Protein Pack "
+    },
+    {
+        "item_id": 6850,
+        "item_name": " Kitchen Fresh 1275 Enjoy Roasted Turkey Cranberry Brie on Seedlic "
+    },
+    {
+        "item_id": 6851,
+        "item_name": " Kitchen Fresh 1276 Enjoy Grilled Chicken Applewood Smoked Bacon Wrap"
+    },
+    {
+        "item_id": 6853,
+        "item_name": " Mountain Dew Amp Game Fuel Charged Berry Blast "
+    },
+    {
+        "item_id": 6854,
+        "item_name": " Mountain Dew Amp Game Fuel Charged Cherry Burst "
+    },
+    {
+        "item_id": 6855,
+        "item_name": " Gatorade Zero Glacier Freeze "
+    },
+    {
+        "item_id": 6856,
+        "item_name": " Chefs Cut Asian Style Teriyaki Jerky "
+    },
+    {
+        "item_id": 6857,
+        "item_name": " Kitchen Fresh 1279 Enjoy Grilled Chicken Hawaiian Wrap Sweet Dip "
+    },
+    {
+        "item_id": 6858,
+        "item_name": " Taco Bell Fire Tortilla Chips "
+    },
+    {
+        "item_id": 6859,
+        "item_name": " S. Pellegrino Essenza Dark Morello Cherry & Pomegranate "
+    },
+    {
+        "item_id": 6860,
+        "item_name": " Kitchen Fresh 1281 Enjoy Farmstand Salad Balsamic Vinaigrette "
+    },
+    {
+        "item_id": 6861,
+        "item_name": " Kitchen Fresh 1282 Enjoy Grilled Chicken Lemon Aioli Arugula Baguette "
+    },
+    {
+        "item_id": 6862,
+        "item_name": " Taylor Farms Turkey Cheddar Wedge "
+    },
+    {
+        "item_id": 6863,
+        "item_name": " Taylor Farms Ham Cheddar Wedge "
+    },
+    {
+        "item_id": 6864,
+        "item_name": " Snapple Strawberry Pineaplle Lemonade "
+    },
+    {
+        "item_id": 6865,
+        "item_name": " Jack Links Pepperjack Loaded Beef "
+    },
+    {
+        "item_id": 6866,
+        "item_name": " Tonys Deep Dish Sausage Pizza "
+    },
+    {
+        "item_id": 6867,
+        "item_name": " Don Miguel Mini Chicken Tacos "
+    },
+    {
+        "item_id": 6868,
+        "item_name": " Buddys The Big Cheese on Grilled Texas Toast "
+    },
+    {
+        "item_id": 6869,
+        "item_name": " Nissin Top Ramen Chili "
+    },
+    {
+        "item_id": 6870,
+        "item_name": " Crystal Light Cherry Pomegranate "
+    },
+    {
+        "item_id": 6871,
+        "item_name": " Crystal Light Raspberry Lemonade "
+    },
+    {
+        "item_id": 6875,
+        "item_name": " Milky Way Ice Cream Bar "
+    },
+    {
+        "item_id": 6879,
+        "item_name": " FLAVIA Hot Chocolate Single Pack\n"
+    },
+    {
+        "item_id": 6893,
+        "item_name": " Bimbo Conchas "
+    },
+    {
+        "item_id": 6894,
+        "item_name": " Kitchen Fresh 1094 Ham & Cheese Flatbread Sandwich "
+    },
+    {
+        "item_id": 6896,
+        "item_name": " Walkers Shortbread Rounds Twin Pack "
+    },
+    {
+        "item_id": 6897,
+        "item_name": " Rye Street Roasted Turkey Pesto Mayo Rosemary Ciabatta "
+    },
+    {
+        "item_id": 6898,
+        "item_name": " Rye Street Roast Beef Horseradish Mayo Sesame Roll "
+    },
+    {
+        "item_id": 6899,
+        "item_name": " Rye Street Ham with Mustard on Wheat Ciabatta "
+    },
+    {
+        "item_id": 6902,
+        "item_name": " Cheesewich Pepper Jack & Hard Salami "
+    },
+    {
+        "item_id": 6903,
+        "item_name": " Kitchen Fresh 1106 Gourmet Signature Sub "
+    },
+    {
+        "item_id": 6904,
+        "item_name": " Kitchen Fresh 1112 Philly Flatbread Sandwich "
+    },
+    {
+        "item_id": 6905,
+        "item_name": " Gevalia Carmel Iced Coffee with Almond Milk "
+    },
+    {
+        "item_id": 6906,
+        "item_name": " Gevalia Vanilla Iced Coffee with Almond Milk "
+    },
+    {
+        "item_id": 6907,
+        "item_name": " Pirouline Dark Chocolate "
+    },
+    {
+        "item_id": 6908,
+        "item_name": " Tic Tac Freshmints "
+    },
+    {
+        "item_id": 6909,
+        "item_name": " Dairy Pure 2% Reduced Fat Milk "
+    },
+    {
+        "item_id": 6912,
+        "item_name": " FOODA Food Item $1.00\n"
+    },
+    {
+        "item_id": 6913,
+        "item_name": " FOODA Food Item $2.00\n"
+    },
+    {
+        "item_id": 6914,
+        "item_name": " Snickers Pumpkin "
+    },
+    {
+        "item_id": 6915,
+        "item_name": " Kitchen Fresh 1130 Blimpie Spicy Chicken Ranch Italian Baquette "
+    },
+    {
+        "item_id": 6916,
+        "item_name": " Kitchen Fresh 1129 Blimpie Southwest Club Sub "
+    },
+    {
+        "item_id": 6917,
+        "item_name": " Kitchen Fresh 1128 Blimpie Ham Swiss on Pretzel Bread "
+    },
+    {
+        "item_id": 6918,
+        "item_name": " Kitchen Fresh 1127 Blimpie Chicken Bacon Ranch Sub "
+    },
+    {
+        "item_id": 6919,
+        "item_name": " Kitchen Fresh 1126 Blimpie Best Pretzel Sandwich "
+    },
+    {
+        "item_id": 6920,
+        "item_name": " Sabra Bold & Spicy Hummus with Tortilla Chips "
+    },
+    {
+        "item_id": 6921,
+        "item_name": " Michelinas Pepperoni Pizza Roll "
+    },
+    {
+        "item_id": 6922,
+        "item_name": " Kitchen Fresh 1147 Fish Filet with Cheddar on Rye "
+    },
+    {
+        "item_id": 6924,
+        "item_name": " M&M Easter Minis "
+    },
+    {
+        "item_id": 6925,
+        "item_name": " Kitchen Fresh 1098 Chili Chorizo Pretzel Roll "
+    },
+    {
+        "item_id": 6926,
+        "item_name": " Kitchen Fresh 1084 Kielbasa Biscuit Sandwich "
+    },
+    {
+        "item_id": 6927,
+        "item_name": " Kitchen Fresh 1108 Ham & Swiss Sausage "
+    },
+    {
+        "item_id": 6928,
+        "item_name": " Kitchen Fresh 1110 Bacon Cheddar Brat Burger "
+    },
+    {
+        "item_id": 6929,
+        "item_name": " Kitchen Fresh 1111 Bacon Pepperjack Cheeseburger "
+    },
+    {
+        "item_id": 6931,
+        "item_name": " Post Card $1.99\n"
+    },
+    {
+        "item_id": 6932,
+        "item_name": " Post Card $2.99\n"
+    },
+    {
+        "item_id": 6933,
+        "item_name": " Goodness Knows Very Cranberry Almond Dark Chocolate Squares "
+    },
+    {
+        "item_id": 6934,
+        "item_name": " Kitchen Fresh 1153 Enjoy Tuna Salad Snack Pack "
+    },
+    {
+        "item_id": 6935,
+        "item_name": " Kitchen Fresh 1182 Enjoy Corned Beef Swiss Horseradish Aioli Rye "
+    },
+    {
+        "item_id": 6936,
+        "item_name": " Kitchen Fresh 1200 Enjoy Creole Chicken Sweet Potato Wrap "
+    },
+    {
+        "item_id": 6937,
+        "item_name": " Kitchen Fresh 1192 Enjoy Fresh Cut Fruit "
+    },
+    {
+        "item_id": 6938,
+        "item_name": " TBest Aloe Pineapple Drink "
+    },
+    {
+        "item_id": 6939,
+        "item_name": " TBest Aloe Mango Drink "
+    },
+    {
+        "item_id": 6940,
+        "item_name": " TBest Aloe Pomegranate Drink "
+    },
+    {
+        "item_id": 6942,
+        "item_name": " Kitchen Fresh 1208 Enjoy Strawberry Salad Feta Almond Poppyseed "
+    },
+    {
+        "item_id": 6943,
+        "item_name": " Kitchen Fresh 1209 Enjoy Ham Provolone Sweet Spicy Mustard Seedlic "
+    },
+    {
+        "item_id": 6944,
+        "item_name": " Kitchen Fresh 1210 Enjoy Greek Pasta Salad "
+    },
+    {
+        "item_id": 6945,
+        "item_name": " Kitchen Fresh 1211 Enjoy Grilled Chicken Kalamata Feta Tapenade Baget "
+    },
+    {
+        "item_id": 6946,
+        "item_name": " Kitchen Fresh 1212 Enjoy Turkey Cucumber Cheddar on White "
+    },
+    {
+        "item_id": 6947,
+        "item_name": " Quaker Peanut Butter Breakfast Square "
+    },
+    {
+        "item_id": 6948,
+        "item_name": " Quaker Baked Apple Cinnamon Breakfast Square "
+    },
+    {
+        "item_id": 6949,
+        "item_name": " Mrs. Freshleys Oreo Brownie "
+    },
+    {
+        "item_id": 6950,
+        "item_name": " Hillshire Italian Dry Salame Small Plate "
+    },
+    {
+        "item_id": 6951,
+        "item_name": " Sargento Balanced Breaks Cheddar Cheese Almond Raisin Greek Yogurt "
+    },
+    {
+        "item_id": 6952,
+        "item_name": " Yup Lowfat Ultra Filtered White Milk "
+    },
+    {
+        "item_id": 6953,
+        "item_name": " Avalanche Swiss Granola Original "
+    },
+    {
+        "item_id": 6954,
+        "item_name": " Avalanche Swiss Granola Fruit Basket "
+    },
+    {
+        "item_id": 6955,
+        "item_name": " Avalanche Swiss Granola Coconut Quinoa & Chocolate "
+    },
+    {
+        "item_id": 6958,
+        "item_name": " Kitchen Fresh 1252 Enjoy Grilled Chicken Ciabatta Pesto Brie RstPep "
+    },
+    {
+        "item_id": 6959,
+        "item_name": " Kitchen Fresh 1253 Enjoy Garden Salad Grilled Chicken Ranch "
+    },
+    {
+        "item_id": 6960,
+        "item_name": " Kitchen Fresh 1254 Enjoy Buffalo Roasted Vegetable Blue Cheese "
+    },
+    {
+        "item_id": 6961,
+        "item_name": " Kitchen Fresh 1255 Enjoy Steakhouse Salad Bacon Blue Cheese Dress "
+    },
+    {
+        "item_id": 6962,
+        "item_name": " Kitchen Fresh 1256 Enjoy Spicy Tuna with Carrots Greens Wrap "
+    },
+    {
+        "item_id": 6964,
+        "item_name": " Limitless Watermelon Sparkling Water "
+    },
+    {
+        "item_id": 6965,
+        "item_name": " Limitless Grapefruit Hibiscus Sparkling Water "
+    },
+    {
+        "item_id": 6966,
+        "item_name": " Grand Prairie Sausage Pepperoni Calzone "
+    },
+    {
+        "item_id": 6967,
+        "item_name": " Kitchen Fresh 1271 Enjoy Grilled Teriyaki Chicken Salad Asian Dress "
+    },
+    {
+        "item_id": 6968,
+        "item_name": " Kitchen Fresh 1272 Enjoy Grilled Chicken Spinach Provolone Pesto Flt"
+    },
+    {
+        "item_id": 6969,
+        "item_name": " Kitchen Fresh 1273 Enjoy Smoked Autumn Harvest Wrap "
+    },
+    {
+        "item_id": 6970,
+        "item_name": " Jack Links Beef & Cheddar Cheese "
+    },
+    {
+        "item_id": 6972,
+        "item_name": " Tai Pei Sweet & Sour Chicken "
+    },
+    {
+        "item_id": 6973,
+        "item_name": " Kellogg Pop Tarts Pumpkin Pie "
+    },
+    {
+        "item_id": 6974,
+        "item_name": " Kitchen Fresh 1234 Enjoy Turkey Gouda Arugula Multigrain "
+    },
+    {
+        "item_id": 6976,
+        "item_name": " Monster Energy Mango Loco "
+    },
+    {
+        "item_id": 6978,
+        "item_name": " Grand Prairie Pepperoni Pizza "
+    },
+    {
+        "item_id": 6979,
+        "item_name": " Grand Prairie Breakfast Pizza "
+    },
+    {
+        "item_id": 6980,
+        "item_name": " Red Bull Summer Edition Beach Breeze "
+    },
+    {
+        "item_id": 6981,
+        "item_name": " Awake Peanut Butter Bite "
+    },
+    {
+        "item_id": 6982,
+        "item_name": " Forto Vanilla Latte Coffee Shot "
+    },
+    {
+        "item_id": 7034,
+        "item_name": " Kitchen Fresh 769 Ultimate Ham & Swiss Sub "
+    },
+    {
+        "item_id": 7035,
+        "item_name": " Kitchen Fresh 922 Taco Salad Bowl w/ Salsa "
+    },
+    {
+        "item_id": 7036,
+        "item_name": " Kitchen Fresh 657 Chicken Peppercorn Wrap "
+    },
+    {
+        "item_id": 7037,
+        "item_name": " Kitchen Fresh 784 Ham"
+    },
+    {
+        "item_id": 7038,
+        "item_name": " Kitchen Fresh 710 Sausage"
+    },
+    {
+        "item_id": 7039,
+        "item_name": " Kitchen Fresh 748 Farmers Breakfast Scramble "
+    },
+    {
+        "item_id": 7040,
+        "item_name": " Kitchen Fresh 938 Hot Ham & Cheese 8in Submarine "
+    },
+    {
+        "item_id": 7041,
+        "item_name": " Kitchen Fresh 984 Meatball Sub Sandwich "
+    },
+    {
+        "item_id": 7042,
+        "item_name": " Kitchen Fresh 736 Turkey Delite Wheat Sub "
+    },
+    {
+        "item_id": 7043,
+        "item_name": " Kitchen Fresh 1029 Chicken Fajita Sandwich "
+    },
+    {
+        "item_id": 7044,
+        "item_name": " Kitchen Fresh 807 Pancakes w/ Sausage "
+    },
+    {
+        "item_id": 7057,
+        "item_name": " Kitchen Fresh 849 Spaghetti w/ Meatballs "
+    },
+    {
+        "item_id": 7058,
+        "item_name": " Kitchen Fresh 959 Medium Chef Bowl w/ Buttermilk Ranch Dressing "
+    },
+    {
+        "item_id": 7059,
+        "item_name": " Kitchen Fresh 913 Chuckwagon on  Hamburger Bun "
+    },
+    {
+        "item_id": 7060,
+        "item_name": " Kitchen Fresh 851 Grilled Chicken w/ BBQ & Onions "
+    },
+    {
+        "item_id": 7061,
+        "item_name": " Kitchen Fresh 971 Quarter Pound Cheeseburger "
+    },
+    {
+        "item_id": 7064,
+        "item_name": " Kitchen Fresh 970 Grilled Chicken & Swiss On Wheat Bun "
+    },
+    {
+        "item_id": 7066,
+        "item_name": " Kitchen Fresh 734 Garden Veggie Whole Wheat Sub "
+    },
+    {
+        "item_id": 7067,
+        "item_name": " Kitchen Fresh 992 Swissburger "
+    },
+    {
+        "item_id": 7068,
+        "item_name": " zzzKitchen Fresh 720 Chicken Fingers w/ Honey Mustard Sauce "
+    },
+    {
+        "item_id": 7069,
+        "item_name": " Kitchen Fresh 640 Chuckwagon Poppyseed "
+    },
+    {
+        "item_id": 7070,
+        "item_name": " Kitchen Fresh 751 Sausage"
+    },
+    {
+        "item_id": 7071,
+        "item_name": " Kitchen Fresh 901 Sandwich Spread On White Wedge "
+    },
+    {
+        "item_id": 7072,
+        "item_name": " Kitchen Fresh 724 Hot Turkey & Gravy Sandwich "
+    },
+    {
+        "item_id": 7073,
+        "item_name": " Kitchen Fresh 731 Jumbo Corn Dog w/ Mustard Cup "
+    },
+    {
+        "item_id": 7074,
+        "item_name": " Kitchen Fresh 656 Ham & Cheese On Wheat Wedge "
+    },
+    {
+        "item_id": 7075,
+        "item_name": " Kitchen Fresh 810 Scrambled Eggs w/ Bacon "
+    },
+    {
+        "item_id": 7076,
+        "item_name": " Kitchen Fresh 821 Scrambled Eggs w/ Ham "
+    },
+    {
+        "item_id": 7078,
+        "item_name": " Kitchen Fresh 965 Roast Beef w/ Cheese Wedge "
+    },
+    {
+        "item_id": 7079,
+        "item_name": " Kitchen Fresh 679 Sandwich Spread Croissant "
+    },
+    {
+        "item_id": 7080,
+        "item_name": " Kitchen Fresh 816 Quarter Pound Pepperoni Pizzaburger "
+    },
+    {
+        "item_id": 7081,
+        "item_name": " Kitchen Fresh 782 Salami On White Wedge "
+    },
+    {
+        "item_id": 7082,
+        "item_name": " Kitchen Fresh 822 Swedish Meatballs "
+    },
+    {
+        "item_id": 7084,
+        "item_name": " Kitchen Fresh 643 Chuckwagon Wedge "
+    },
+    {
+        "item_id": 7085,
+        "item_name": " Kitchen Fresh 924 Hot Roast Beef 6in Submarine "
+    },
+    {
+        "item_id": 7086,
+        "item_name": " Kitchen Fresh 672 Spicy Chicken Tender Sandwich "
+    },
+    {
+        "item_id": 7087,
+        "item_name": " Kitchen Fresh 899 Quarter Pound BBQ Burger "
+    },
+    {
+        "item_id": 7088,
+        "item_name": " Kitchen Fresh 881 Chicken Parmesan Casserole "
+    },
+    {
+        "item_id": 7089,
+        "item_name": " Kitchen Fresh 980 Smoked Turkey Salad Croissant "
+    },
+    {
+        "item_id": 7090,
+        "item_name": " Kitchen Fresh 723 Turkey & Cheese White Wedge "
+    },
+    {
+        "item_id": 7091,
+        "item_name": " Kitchen Fresh 964 Mushroom & Swissburger "
+    },
+    {
+        "item_id": 7092,
+        "item_name": " Kitchen Fresh 668 Taco Joe w/ Cheese "
+    },
+    {
+        "item_id": 7094,
+        "item_name": " Kitchen Fresh 1038 Classic Cheese Burger "
+    },
+    {
+        "item_id": 7095,
+        "item_name": " Kitchen Fresh 953 The Works Cheeseburger "
+    },
+    {
+        "item_id": 7098,
+        "item_name": " Kitchen Fresh 664 Chicken & Cheddar "
+    },
+    {
+        "item_id": 7099,
+        "item_name": " Kitchen Fresh 678 Egg Salad Croissant "
+    },
+    {
+        "item_id": 7100,
+        "item_name": " Kitchen Fresh 619 Fiesta Burger "
+    },
+    {
+        "item_id": 7104,
+        "item_name": " Kitchen Fresh 768 Country Club Sub "
+    },
+    {
+        "item_id": 7105,
+        "item_name": " ChefPierre Blueberry Muffin "
+    },
+    {
+        "item_id": 7108,
+        "item_name": " Kitchen Fresh 981 Grilled Chicken & Swiss On Rye Bun "
+    },
+    {
+        "item_id": 7109,
+        "item_name": " Kitchen Fresh 753 Steak & Eggs "
+    },
+    {
+        "item_id": 7110,
+        "item_name": " Kitchen Fresh 627 Turkey & Cheese On 6in Seeded "
+    },
+    {
+        "item_id": 7112,
+        "item_name": " Kitchen Fresh 1025 Chipotle Bacon Burger "
+    },
+    {
+        "item_id": 7114,
+        "item_name": " Kitchen Fresh 950 Salami & Cheese On Wheat Wedge "
+    },
+    {
+        "item_id": 7115,
+        "item_name": " Kitchen Fresh 906 Ham & Cheese On Sesame Seed Bun "
+    },
+    {
+        "item_id": 7116,
+        "item_name": " Kitchen Fresh 995 Ham & Swiss On Sesame Seed Bun "
+    },
+    {
+        "item_id": 7117,
+        "item_name": " Kitchen Fresh 677 Grilled Chicken & Swiss Croissant "
+    },
+    {
+        "item_id": 7118,
+        "item_name": " Kitchen Fresh 891 Ham & Turkey Croissant "
+    },
+    {
+        "item_id": 7120,
+        "item_name": " Dolly Madison Cinnamon Coffee Cake "
+    },
+    {
+        "item_id": 7123,
+        "item_name": " Jamba Organic Strawberry Fruit Bites "
+    },
+    {
+        "item_id": 7125,
+        "item_name": " Wrazidlos Old World Original Meat Stick "
+    },
+    {
+        "item_id": 7126,
+        "item_name": " Vive Organic Immunity Boost "
+    },
+    {
+        "item_id": 7127,
+        "item_name": " Taylor Farms Chicken Caesar Salad "
+    },
+    {
+        "item_id": 7128,
+        "item_name": " Taylor Farms Cobb Salad "
+    },
+    {
+        "item_id": 7129,
+        "item_name": " Dunkin Donuts Cookies & Cream Iced Coffee "
+    },
+    {
+        "item_id": 7130,
+        "item_name": " Grand Prairie Four Cheese Calzone "
+    },
+    {
+        "item_id": 7132,
+        "item_name": " Kitchen Fresh 1240 Enjoy Roasted Turkey Pepperjack Red Pepper Spin "
+    },
+    {
+        "item_id": 7133,
+        "item_name": " Kitchen Fresh 1241 Enjoy Asia Salad Grill Chicken Sesame GingerDress"
+    },
+    {
+        "item_id": 7137,
+        "item_name": " Grand Prairie Kickin Chicken Sandwich "
+    },
+    {
+        "item_id": 7140,
+        "item_name": " Kitchen Fresh 1283 Top Round & Cheddar on Pretzel Bun "
+    },
+    {
+        "item_id": 7141,
+        "item_name": " Nabisco Nutter Butter Peanut Butter Cookies "
+    },
+    {
+        "item_id": 7142,
+        "item_name": " Kitchen Fresh 1030 Monterey Chicken Wrap "
+    },
+    {
+        "item_id": 7143,
+        "item_name": " Kitchen Fresh 692 Ham Deli Wrap "
+    },
+    {
+        "item_id": 7145,
+        "item_name": " Kitchen Fresh 940 Salami On Rye Wedge "
+    },
+    {
+        "item_id": 7147,
+        "item_name": " Kitchen Fresh 802 French Toast "
+    },
+    {
+        "item_id": 7148,
+        "item_name": " Kitchen Fresh 620 Nacho Dog "
+    },
+    {
+        "item_id": 7149,
+        "item_name": " Kitchen Fresh 921 Texas Blt "
+    },
+    {
+        "item_id": 7150,
+        "item_name": " Bon Appetit Bakery 425 Cheese Croissant #1712 "
+    },
+    {
+        "item_id": 7151,
+        "item_name": " Kitchen Fresh 908 Hamburger "
+    },
+    {
+        "item_id": 7152,
+        "item_name": " Kitchen Fresh 945 Natural Cheddar On Wheat Wedge "
+    },
+    {
+        "item_id": 7154,
+        "item_name": " Kitchen Fresh 760 Ham & Turkey On Wheat Bagel "
+    },
+    {
+        "item_id": 7155,
+        "item_name": " Kitchen Fresh 942 Chicken Salad on Whole Grain Bun "
+    },
+    {
+        "item_id": 7156,
+        "item_name": " Kitchen Fresh 997 Ham & Turkey On Rye Wedge "
+    },
+    {
+        "item_id": 7157,
+        "item_name": " Kitchen Fresh 728 Ham & Hard Salami Sub "
+    },
+    {
+        "item_id": 7160,
+        "item_name": " Kitchen Fresh 691 Roast Beef & Honey Ham Sub "
+    },
+    {
+        "item_id": 7161,
+        "item_name": " Kitchen Fresh 1039 Grilled Patty Melt w/ Onions "
+    },
+    {
+        "item_id": 7162,
+        "item_name": " Kitchen Fresh 973 Polish & Kraut "
+    },
+    {
+        "item_id": 7163,
+        "item_name": " Kitchen Fresh 788 Pepperoni Melt "
+    },
+    {
+        "item_id": 7164,
+        "item_name": " Kitchen Fresh 763 Turkey Bacon Melt "
+    },
+    {
+        "item_id": 7167,
+        "item_name": " Kitchen Fresh 703 German Chocolate Cake "
+    },
+    {
+        "item_id": 7169,
+        "item_name": " Kitchen Fresh 764 Mini Guy "
+    },
+    {
+        "item_id": 7170,
+        "item_name": " Kitchen Fresh 787 Ranchwagon "
+    },
+    {
+        "item_id": 7171,
+        "item_name": " Kitchen Fresh 904 Ham And Swiss On Rye Wedge "
+    },
+    {
+        "item_id": 7172,
+        "item_name": " Kitchen Fresh 721 Klements Twin Hot Dogs "
+    },
+    {
+        "item_id": 7173,
+        "item_name": " Kitchen Fresh 765 Smoked Turkey Salad Wedge "
+    },
+    {
+        "item_id": 7174,
+        "item_name": " Kitchen Fresh 838 Chicken Parmesan Snacker "
+    },
+    {
+        "item_id": 7175,
+        "item_name": " Kitchen Fresh 713 Turkey & Cheese On Bun "
+    },
+    {
+        "item_id": 7176,
+        "item_name": " Kitchen Fresh 824 Quarter Pound Islander "
+    },
+    {
+        "item_id": 7177,
+        "item_name": " Kitchen Fresh 991 Swiss Dog "
+    },
+    {
+        "item_id": 7179,
+        "item_name": " Kitchen Fresh 962 Carrot Cake "
+    },
+    {
+        "item_id": 7180,
+        "item_name": " Kitchen Fresh 669 Wisconsin Summer Sausage Wedge "
+    },
+    {
+        "item_id": 7182,
+        "item_name": " Sour Patch Xploderz "
+    },
+    {
+        "item_id": 7183,
+        "item_name": " Kitchen Fresh 859 Ham Onion Roll Stacker "
+    },
+    {
+        "item_id": 7184,
+        "item_name": " Kitchen Fresh 841 Pretzel & Cheese "
+    },
+    {
+        "item_id": 7185,
+        "item_name": " Kitchen Fresh 811 Sloppy Joe w/ Cheese "
+    },
+    {
+        "item_id": 7186,
+        "item_name": " Kitchen Fresh 917 Salami & Cheese Submarine "
+    },
+    {
+        "item_id": 7187,
+        "item_name": " Kitchen Fresh 1043 Tex-Mex Breakfast Sandwich "
+    },
+    {
+        "item_id": 7189,
+        "item_name": " Kitchen Fresh 803 Top Round French Dip "
+    },
+    {
+        "item_id": 7190,
+        "item_name": " Kitchen Fresh 637 Grilled Chicken Breast "
+    },
+    {
+        "item_id": 7191,
+        "item_name": " Prairie City Ooey Gooey Butter Cake "
+    },
+    {
+        "item_id": 7192,
+        "item_name": " Kitchen Fresh 907 Sloppy Joe "
+    },
+    {
+        "item_id": 7193,
+        "item_name": " Kitchen Fresh 932 Chili Dog "
+    },
+    {
+        "item_id": 7194,
+        "item_name": " Kitchen Fresh 996 Ham On White "
+    },
+    {
+        "item_id": 7196,
+        "item_name": " Kitchen Fresh 854 Chicago Style Italian Sausage "
+    },
+    {
+        "item_id": 7197,
+        "item_name": " Kitchen Fresh 910 Ham & Cheese Whole Wheat Sub "
+    },
+    {
+        "item_id": 7198,
+        "item_name": " Deja Blue Water "
+    },
+    {
+        "item_id": 7200,
+        "item_name": " Little Debbie Cosmic Brownie "
+    },
+    {
+        "item_id": 7201,
+        "item_name": " Kitchen Fresh 1026 Philly Burger "
+    },
+    {
+        "item_id": 7202,
+        "item_name": " Kitchen Fresh 727 Taco Grinder "
+    },
+    {
+        "item_id": 7203,
+        "item_name": " Kitchen Fresh 826 Macaroni & Cheese "
+    },
+    {
+        "item_id": 7204,
+        "item_name": " Kitchen Fresh 1060 Twin Sausage Egg & Cheese Biscuit Minis "
+    },
+    {
+        "item_id": 7208,
+        "item_name": " Kitchen Fresh 715 French Onion Burger "
+    },
+    {
+        "item_id": 7210,
+        "item_name": " Jimmy Dean Sausage Egg & Cheese Muffin #51369 "
+    },
+    {
+        "item_id": 7212,
+        "item_name": " Otis Spunkmeyer Chocolate Chocolate Chip Muffin #507 "
+    },
+    {
+        "item_id": 7215,
+        "item_name": " Kitchen Fresh 949 Nacho Burger "
+    },
+    {
+        "item_id": 7216,
+        "item_name": " Kitchen Fresh 1011 Pepperoni Pizza "
+    },
+    {
+        "item_id": 7217,
+        "item_name": " Kitchen Fresh 954 Ham On Rye "
+    },
+    {
+        "item_id": 7218,
+        "item_name": " Kitchen Fresh 747 Sausage Biscuit "
+    },
+    {
+        "item_id": 7219,
+        "item_name": " Kitchen Fresh 866 Jello Cake "
+    },
+    {
+        "item_id": 7220,
+        "item_name": " Kitchen Fresh 911 Cheese Dog "
+    },
+    {
+        "item_id": 7221,
+        "item_name": " Kitchen Fresh 933 Hot Dog "
+    },
+    {
+        "item_id": 7222,
+        "item_name": " Kitchen Fresh 761 Twin Cheeseburgers "
+    },
+    {
+        "item_id": 7223,
+        "item_name": " Kitchen Fresh 1023 Cuban Burger "
+    },
+    {
+        "item_id": 7225,
+        "item_name": " Kitchen Fresh 673 Sandwich Spread On Wheat Wedge "
+    },
+    {
+        "item_id": 7228,
+        "item_name": " Kitchen Fresh 740 Deli Combo on French Bread "
+    },
+    {
+        "item_id": 7229,
+        "item_name": " Kitchen Fresh 936 Grilled Monster Burger "
+    },
+    {
+        "item_id": 7231,
+        "item_name": " Kitchen Fresh 987 Relish Dog "
+    },
+    {
+        "item_id": 7232,
+        "item_name": " Kitchen Fresh 1040 Works Dog "
+    },
+    {
+        "item_id": 7235,
+        "item_name": " Kitchen Fresh 759 Chicken Snacker w/ BBQ "
+    },
+    {
+        "item_id": 7236,
+        "item_name": " Kitchen Fresh 785 Grilled Chicken & Honey Mustard "
+    },
+    {
+        "item_id": 7237,
+        "item_name": " Kitchen Fresh 1027 Chicken Cordon Bleu Snacker "
+    },
+    {
+        "item_id": 7238,
+        "item_name": " Fast Choice Mushroom Beef Charbroil with Cheese #1467 "
+    },
+    {
+        "item_id": 7239,
+        "item_name": " Kitchen Fresh 1061 Fried Bologna "
+    },
+    {
+        "item_id": 7241,
+        "item_name": " Kitchen Fresh 1971 Quarter Pound Cheeseburger "
+    },
+    {
+        "item_id": 7245,
+        "item_name": " Kitchen Fresh 860 Tijuana Sunrise Bagel "
+    },
+    {
+        "item_id": 7246,
+        "item_name": " zzzKitchen Fresh 719 Chicken Fingers w/ BBQ Sauce "
+    },
+    {
+        "item_id": 7247,
+        "item_name": " Kitchen Fresh 712 Quarter Pound Chili Cheeseburger "
+    },
+    {
+        "item_id": 7248,
+        "item_name": " Kitchen Fresh 916 Ham & Cheese 8in Submarine "
+    },
+    {
+        "item_id": 7249,
+        "item_name": " Kitchen Fresh 947 Cheese Steak Sandwich "
+    },
+    {
+        "item_id": 7251,
+        "item_name": " Kitchen Fresh 1545 The Works Burger "
+    },
+    {
+        "item_id": 7252,
+        "item_name": " Kitchen Fresh 1904 Ham & Swiss on Rye Wedge "
+    },
+    {
+        "item_id": 7253,
+        "item_name": " Kitchen Fresh 1925 Cheeseburger "
+    },
+    {
+        "item_id": 7254,
+        "item_name": " Kitchen Fresh 1515 Beef & Pepper Jack Sticks "
+    },
+    {
+        "item_id": 7255,
+        "item_name": " Kitchen Fresh 1512 Beef & Cheddar Sticks "
+    },
+    {
+        "item_id": 7256,
+        "item_name": " Kitchen Fresh 1520 Honey Ham Sticks & Cheddar Curd "
+    },
+    {
+        "item_id": 7257,
+        "item_name": " Kitchen Fresh 1523 Honey Ham Sticks & Ranch Curd "
+    },
+    {
+        "item_id": 7258,
+        "item_name": " Kitchen Fresh 1723 Turkey & Cheese on White Wedge "
+    },
+    {
+        "item_id": 7259,
+        "item_name": " Kitchen Fresh 1905 Ham & Cheese Wedge "
+    },
+    {
+        "item_id": 7260,
+        "item_name": " Forto Chocolate Latte Energy Coffee "
+    },
+    {
+        "item_id": 7261,
+        "item_name": " Jack Links Teriyaki Chicken & Jasmine Rice Bowl "
+    },
+    {
+        "item_id": 7262,
+        "item_name": " Jack Links Cheeseburger & Potato Bites Bowl "
+    },
+    {
+        "item_id": 7263,
+        "item_name": " Fieldstone Cosmo Blast Brownie with Chocolate Chip Candy "
+    },
+    {
+        "item_id": 7265,
+        "item_name": " White Castle Veggie Sliders "
+    },
+    {
+        "item_id": 7268,
+        "item_name": " Jack Links Cold Crafted Beef & Cheddar Bites "
+    },
+    {
+        "item_id": 7269,
+        "item_name": " Chilly Cow Sweet Peanut Butter Ice Cream "
+    },
+    {
+        "item_id": 7270,
+        "item_name": " Jack Links Cold Crafted Beef & Pepperjack "
+    },
+    {
+        "item_id": 7271,
+        "item_name": " Ruffles Jalapeno Ranch "
+    },
+    {
+        "item_id": 7272,
+        "item_name": " Cheezits Snap'd Double Cheese "
+    },
+    {
+        "item_id": 7274,
+        "item_name": " Mrs. Freshleys Chocolate Chip Muffin "
+    },
+    {
+        "item_id": 7276,
+        "item_name": " Frigo CheeseHeads Colby & Monterey Jack Cheese "
+    },
+    {
+        "item_id": 7277,
+        "item_name": " Bang Rainbow Unicorn Energy Shot "
+    },
+    {
+        "item_id": 7278,
+        "item_name": " Bang Peach Mango Energy Shot "
+    },
+    {
+        "item_id": 7279,
+        "item_name": " Popcorners White Cheddar "
+    },
+    {
+        "item_id": 7280,
+        "item_name": " Tyson Spicy Chicken Sandwich "
+    },
+    {
+        "item_id": 7281,
+        "item_name": " Ready Strawberry Banana Sports Drink "
+    },
+    {
+        "item_id": 7282,
+        "item_name": " Umpqua Oats Maple Pecan Oatmeal "
+    },
+    {
+        "item_id": 7283,
+        "item_name": " Ms Vickies Sea Salt "
+    },
+    {
+        "item_id": 7284,
+        "item_name": " Ms Vickies Sea Salt & Vinegar "
+    },
+    {
+        "item_id": 7285,
+        "item_name": " Phocus Peach Sparkling Water "
+    },
+    {
+        "item_id": 7286,
+        "item_name": " Hip Snacks Chocolate Chip Omega 3 Cookie "
+    },
+    {
+        "item_id": 7287,
+        "item_name": " Grecian Delight Opaa Gyro Sandwich "
+    },
+    {
+        "item_id": 7289,
+        "item_name": " Vegetable\n"
+    },
+    {
+        "item_id": 7291,
+        "item_name": " Appleways Chocolate Chip Oatmeal Bar #70300 "
+    },
+    {
+        "item_id": 7293,
+        "item_name": " Prepared Dessert\n"
+    },
+    {
+        "item_id": 7294,
+        "item_name": " Klements Beef Snack Stick "
+    },
+    {
+        "item_id": 7295,
+        "item_name": " Wild Things Skinny Dipped Dark Chocolate Cocoa Almonds "
+    },
+    {
+        "item_id": 7296,
+        "item_name": " Jif Power Ups Creamy Peanut Butter Creamy Clusters "
+    },
+    {
+        "item_id": 7297,
+        "item_name": " Kars Peanut Butter n Jelly Mix "
+    },
+    {
+        "item_id": 7298,
+        "item_name": " Off the Eaten Path Veggie Crisps "
+    },
+    {
+        "item_id": 7299,
+        "item_name": " LaCroix Blackberry Cucumber Sparkling Water "
+    },
+    {
+        "item_id": 7304,
+        "item_name": " Premier Nutrition Chocolate High Protein Shake "
+    },
+    {
+        "item_id": 7305,
+        "item_name": " Kirkland Signature Dry Roasted Salted Almonds "
+    },
+    {
+        "item_id": 7306,
+        "item_name": " Kirkland Signature Roasted Salted Extra Crunchy Peanuts "
+    },
+    {
+        "item_id": 7307,
+        "item_name": " Kirkland Diet Green Tea with Citrus "
+    },
+    {
+        "item_id": 7308,
+        "item_name": " Kitchen Fresh 1901 Sandwich Spread Wedge "
+    },
+    {
+        "item_id": 7311,
+        "item_name": " zzzAppleways Chocolate Oatmeal Bar #70320 "
+    },
+    {
+        "item_id": 7312,
+        "item_name": " Sandwich\n"
+    },
+    {
+        "item_id": 7313,
+        "item_name": " Parfait\n"
+    },
+    {
+        "item_id": 7314,
+        "item_name": " Fruit Cup\n"
+    },
+    {
+        "item_id": 7316,
+        "item_name": " Hersheys Snack Mix "
+    },
+    {
+        "item_id": 7320,
+        "item_name": " Grand Prairie Spicy Sausage Egg Pepperjack on Jalapeno Ched Biscuit "
+    },
+    {
+        "item_id": 7321,
+        "item_name": " Kitchen Fresh 1292 Peanut Butter & Apples Multigrain "
+    },
+    {
+        "item_id": 7322,
+        "item_name": " Kitchen Fresh 1291 Cajun Pretzel Club "
+    },
+    {
+        "item_id": 7323,
+        "item_name": " Grand Prairie Gnocchi with Chicken Sausage Bowl "
+    },
+    {
+        "item_id": 7324,
+        "item_name": " Kellogg Pop Tarts Pretzel Chocolate "
+    },
+    {
+        "item_id": 7325,
+        "item_name": " Ready Nutrition Clean Dark Chocolate Blueberry Almond Protein Bar "
+    },
+    {
+        "item_id": 7326,
+        "item_name": " Ready Mixed Berry Sports Drink "
+    },
+    {
+        "item_id": 7327,
+        "item_name": " Kitchen Fresh 1305 Chicken Burrito Bowl "
+    },
+    {
+        "item_id": 7328,
+        "item_name": " Dr Pepper Zero Sugar "
+    },
+    {
+        "item_id": 7329,
+        "item_name": " Farmers Fridge Enchilada Roja "
+    },
+    {
+        "item_id": 7333,
+        "item_name": " Oh Snap Dilly Bites "
+    },
+    {
+        "item_id": 7340,
+        "item_name": " Ready Pac Elevate Southwest Superfood Salad "
+    },
+    {
+        "item_id": 7343,
+        "item_name": " Wild Things Skinny Dipped Chocolate Cocao Almonds "
+    },
+    {
+        "item_id": 7344,
+        "item_name": " Chester Fries Flamin' Hot "
+    },
+    {
+        "item_id": 7345,
+        "item_name": " Dash Wireless Sport Bluetooth Earbuds\n"
+    },
+    {
+        "item_id": 7347,
+        "item_name": " Funables Strawberry Fruity Snacks "
+    },
+    {
+        "item_id": 7348,
+        "item_name": " Aha Raspberry Acai Sparkling Water "
+    },
+    {
+        "item_id": 7349,
+        "item_name": " Funables Mixed Berry Fruity Snacks "
+    },
+    {
+        "item_id": 7350,
+        "item_name": " Cheesewich Breakfast Taco "
+    },
+    {
+        "item_id": 7351,
+        "item_name": " Kitchen Fresh 1293 Monster Waffle Sandwich "
+    },
+    {
+        "item_id": 7352,
+        "item_name": " Farmers Fridge Southwest Ranch Salad "
+    },
+    {
+        "item_id": 7353,
+        "item_name": " M&M Cookies & Screeem "
+    },
+    {
+        "item_id": 7358,
+        "item_name": " Classic Cookie Chocolate Chip made with Kisses "
+    },
+    {
+        "item_id": 7360,
+        "item_name": " Wonka SweeTarts Cherry Punch Rope "
+    },
+    {
+        "item_id": 7361,
+        "item_name": " Tropicana No Pulp Vitamin C & Zinc Orange Juice "
+    },
+    {
+        "item_id": 7362,
+        "item_name": " Albanese 12 Flavor Mini Gummi Worms "
+    },
+    {
+        "item_id": 7363,
+        "item_name": " Taylor Farms Roasted Turkey Sandwich "
+    },
+    {
+        "item_id": 7364,
+        "item_name": " Taylor Farms Applewood Smoked Ham on Marble "
+    },
+    {
+        "item_id": 7365,
+        "item_name": " Taylor Farms Roast Beef & Provolone "
+    },
+    {
+        "item_id": 7366,
+        "item_name": " Taylor Farms Egg Salad Sandwich "
+    },
+    {
+        "item_id": 7367,
+        "item_name": " Taylor Farms Chicken Salad Sandwich "
+    },
+    {
+        "item_id": 7370,
+        "item_name": " Little Debbie Christmas Tree Cake "
+    },
+    {
+        "item_id": 7371,
+        "item_name": " Kitchen Fresh 1290 Chicken Tortilla Soup "
+    },
+    {
+        "item_id": 7372,
+        "item_name": " Ready Nutrition Clean Chocolate Peanut Butter Bar "
+    },
+    {
+        "item_id": 7373,
+        "item_name": " Jack Links Sweet BBQ Chicken Tender Bites "
+    },
+    {
+        "item_id": 7374,
+        "item_name": " Kitchen Fresh 1288 Pizza Salad "
+    },
+    {
+        "item_id": 7376,
+        "item_name": " Kitchen Fresh 1264 Enjoy Mediterranean Grilled Chicken Baguette Ham "
+    },
+    {
+        "item_id": 7377,
+        "item_name": " Blue Bunny Load'd Sundaes Strawberry Shortcake "
+    },
+    {
+        "item_id": 7378,
+        "item_name": " Lays Creamy Ranch Dip "
+    },
+    {
+        "item_id": 7379,
+        "item_name": " Kitchen Fresh 1284 Deli-Jack Wrap "
+    },
+    {
+        "item_id": 7380,
+        "item_name": " Kitchen Fresh 1285 Tuna Salad Sub "
+    },
+    {
+        "item_id": 7382,
+        "item_name": " Mighty Spark Honey Jalapeno Chicken Snack Stick "
+    },
+    {
+        "item_id": 7387,
+        "item_name": " Grove Street New York Style Cheesecake "
+    },
+    {
+        "item_id": 7389,
+        "item_name": " Kars Peanut Butter & Dark Chocolate Trail Mix "
+    },
+    {
+        "item_id": 7390,
+        "item_name": " LaCroix Kiwi Watermelon Sparkling Water "
+    },
+    {
+        "item_id": 7391,
+        "item_name": " RxBar Peanut Butter "
+    },
+    {
+        "item_id": 7392,
+        "item_name": " Herrs Kettle Cooked Cheddar Horseradish Chips "
+    },
+    {
+        "item_id": 7393,
+        "item_name": " Hip Snacks Vegan Peanut Butter Omega 3 Cookie "
+    },
+    {
+        "item_id": 7394,
+        "item_name": " Awake Caffeinated Mint Chocolate Bar "
+    },
+    {
+        "item_id": 7395,
+        "item_name": " Kitchen Fresh 1289 Homestyle Chili with Beans Over Pasta "
+    },
+    {
+        "item_id": 7397,
+        "item_name": " Bang Energy Star Blast "
+    },
+    {
+        "item_id": 7398,
+        "item_name": " Sargento Balanced Breaks Double Cheddar Dried Cranberry Salt Walnut "
+    },
+    {
+        "item_id": 7399,
+        "item_name": " Kitchen Fresh 1166 Bacon Cheddar Hot Dog "
+    },
+    {
+        "item_id": 7400,
+        "item_name": " Devour Chicken Enchilada Suiza "
+    },
+    {
+        "item_id": 7401,
+        "item_name": " Devour Ravioli Pesto Italian Sausage "
+    },
+    {
+        "item_id": 7403,
+        "item_name": " Dash Turkey & Cheese Sub "
+    },
+    {
+        "item_id": 7404,
+        "item_name": " Dash Bagel & Cream Cheese "
+    },
+    {
+        "item_id": 7405,
+        "item_name": " Dash Turkey Sandwich "
+    },
+    {
+        "item_id": 7406,
+        "item_name": " Dash Snack Box "
+    },
+    {
+        "item_id": 7407,
+        "item_name": " Dash Chicken Caesar Salad "
+    },
+    {
+        "item_id": 7408,
+        "item_name": " Dash Peanut Butter & Jelly Sandwich "
+    },
+    {
+        "item_id": 7409,
+        "item_name": " Dash Yogurt Parfait "
+    },
+    {
+        "item_id": 7410,
+        "item_name": " Lays Dill Pickle Chips "
+    },
+    {
+        "item_id": 7411,
+        "item_name": " Grand Prairie BBQ Rib Patty on Hoagie "
+    },
+    {
+        "item_id": 7412,
+        "item_name": " Cheetos Flamin Hot Chipotle Ranch "
+    },
+    {
+        "item_id": 7413,
+        "item_name": " Off the Eaten Path Rosemary & Olive Oil Flavored Hummus Crisps "
+    },
+    {
+        "item_id": 7414,
+        "item_name": " Aunt Jemima Buttermilk & Maple Pancake on the Go "
+    },
+    {
+        "item_id": 7415,
+        "item_name": " Kitchen Fresh 1286 Natural Cheddar Cheese on Whole Wheat "
+    },
+    {
+        "item_id": 7416,
+        "item_name": " Kirkland Signature Cold Brew Coffee "
+    },
+    {
+        "item_id": 7417,
+        "item_name": " Farmers Fridge French Braised Chicken "
+    },
+    {
+        "item_id": 7418,
+        "item_name": " Farmers Fridge Chicken Tikka Masala "
+    },
+    {
+        "item_id": 7419,
+        "item_name": " Farmers Fridge Chickpea Tikka Masala "
+    },
+    {
+        "item_id": 7420,
+        "item_name": " Bai Boost Watamu Strawberry Watermelon "
+    },
+    {
+        "item_id": 7421,
+        "item_name": " Farmers Fridge Grilled Chicken Caesar Salad "
+    },
+    {
+        "item_id": 7422,
+        "item_name": " Kitchen Fresh Turkey & Cheese Lunch Box "
+    },
+    {
+        "item_id": 7423,
+        "item_name": " Kitchen Fresh Ham & Cheese Lunch Box "
+    },
+    {
+        "item_id": 7424,
+        "item_name": " Red Bull Red Edition Watermelon "
+    },
+    {
+        "item_id": 7425,
+        "item_name": " Kleenhanz KH0015PT Hypoallergenic Towelettes "
+    },
+    {
+        "item_id": 7426,
+        "item_name": " Core Organic Hydration Peach Mango "
+    },
+    {
+        "item_id": 7427,
+        "item_name": " Grand Prairie Tortellini Carbonara with Bacon Bowl "
+    },
+    {
+        "item_id": 7428,
+        "item_name": " Famous Fortune Cookies Cookies & Cream "
+    },
+    {
+        "item_id": 7429,
+        "item_name": " Famous Fortune Cookies Birthday Cake "
+    },
+    {
+        "item_id": 7430,
+        "item_name": " Famous Fortune Cookies Salted Caramel "
+    },
+    {
+        "item_id": 7431,
+        "item_name": " Cheetos XXtra Flamin Hot "
+    },
+    {
+        "item_id": 7432,
+        "item_name": " Cheetos Puffs Flamin Hot "
+    },
+    {
+        "item_id": 7433,
+        "item_name": " Tostitos Salsa Verde "
+    },
+    {
+        "item_id": 7434,
+        "item_name": " Albanese Gummi Peach Rings "
+    },
+    {
+        "item_id": 7435,
+        "item_name": " Coca Cola Zero Sugar Cherry Energy "
+    },
+    {
+        "item_id": 7437,
+        "item_name": " Grand Prairie Sausage Egg & Cheese Buttermilk Biscuit "
+    },
+    {
+        "item_id": 7438,
+        "item_name": " zzzKitchen Fresh 711 Turkey & Swiss on Bun "
+    },
+    {
+        "item_id": 7439,
+        "item_name": " Uncle Rays Chipotle & Jack Cheese Chips "
+    },
+    {
+        "item_id": 7440,
+        "item_name": " Campbells V8 + Energy Sparkling Black Cherry "
+    },
+    {
+        "item_id": 7441,
+        "item_name": " Mrs. Freshleys Pumpkin Spice Cake Bar "
+    },
+    {
+        "item_id": 7442,
+        "item_name": " Gold Peak Slightly Sweet Tea "
+    },
+    {
+        "item_id": 7443,
+        "item_name": " Baby Ruth "
+    },
+    {
+        "item_id": 7444,
+        "item_name": " Aha Lime & Watermelon Sparkling Water "
+    },
+    {
+        "item_id": 7445,
+        "item_name": " Aha Orange & Grapefruit Sparkling Water "
+    },
+    {
+        "item_id": 7446,
+        "item_name": " Dole Lemonade "
+    },
+    {
+        "item_id": 7447,
+        "item_name": " Trolli Sour Crunchy Crawlers "
+    },
+    {
+        "item_id": 7448,
+        "item_name": " Campbells V8 + Energy Sparkilng Lemon Lime "
+    },
+    {
+        "item_id": 7449,
+        "item_name": " Ms Vickies Jalapeno "
+    },
+    {
+        "item_id": 7450,
+        "item_name": " Lays Cheddar Jalapeno "
+    },
+    {
+        "item_id": 7451,
+        "item_name": " Kirkland Signature Blue Raspberry Sports Drink "
+    },
+    {
+        "item_id": 7452,
+        "item_name": " Sabra Dark Chocolate Dessert Dip with Pretzels "
+    },
+    {
+        "item_id": 7453,
+        "item_name": " Haribo Gummi Gold Bears "
+    },
+    {
+        "item_id": 7454,
+        "item_name": " Grand Prairie Mac n Cheese with BBQ Pork Bowl "
+    },
+    {
+        "item_id": 7455,
+        "item_name": " Grand Prairie Prime Rib Hash Bowl "
+    },
+    {
+        "item_id": 7456,
+        "item_name": " Monster Energy Ultra Watermelon "
+    },
+    {
+        "item_id": 7457,
+        "item_name": " Organic Valley Feta & Chives Egg Bites "
+    },
+    {
+        "item_id": 7458,
+        "item_name": " Diet Coke Feisty Cherry "
+    },
+    {
+        "item_id": 7459,
+        "item_name": " Grand Prairie Searin Sriracha Breakfast Bowl "
+    },
+    {
+        "item_id": 7460,
+        "item_name": " Little Debbie Cosmic Brownie "
+    },
+    {
+        "item_id": 7461,
+        "item_name": " Monster Energy Ultra Fiesta Zero Sugar "
+    },
+    {
+        "item_id": 7462,
+        "item_name": " Monster Energy Ultra Rosa Zero Sugar "
+    },
+    {
+        "item_id": 7463,
+        "item_name": " Grand Prairie Flame Broiled Cheeseburger on Brioche "
+    },
+    {
+        "item_id": 7464,
+        "item_name": " Bang Sour Heads Brain & Body Fuel "
+    },
+    {
+        "item_id": 7465,
+        "item_name": " Silk Unsweetened Vanilla Almond Milk "
+    },
+    {
+        "item_id": 7466,
+        "item_name": " Ms Vickies Jalapeno "
+    },
+    {
+        "item_id": 7467,
+        "item_name": " Kitchen Fresh 1287 Enjoy Autumn Apple Pear Salad Brown Sugar Cider "
+    },
+    {
+        "item_id": 7468,
+        "item_name": " Mrs. Freshleys Pumpkin Spice Mini Donuts "
+    },
+    {
+        "item_id": 7469,
+        "item_name": " Ruffles Double Crunch Hot Wings "
+    },
+    {
+        "item_id": 7471,
+        "item_name": " Skinny Souping Spicy Super Greens Soup "
+    },
+    {
+        "item_id": 7472,
+        "item_name": " Skinny Souping Broccoli Lemon Arugula Soup "
+    },
+    {
+        "item_id": 7473,
+        "item_name": " Mountain Dew Zero Sugar "
+    },
+    {
+        "item_id": 7474,
+        "item_name": " Cherry Vanillia Coke "
+    },
+    {
+        "item_id": 7475,
+        "item_name": " Fanta Pina Colada "
+    },
+    {
+        "item_id": 7476,
+        "item_name": " Wonderful Chili Roasted No Shell Pistachios "
+    },
+    {
+        "item_id": 7477,
+        "item_name": " Starbucks Vanilla Sweet Cream Nitro Cold Brew "
+    },
+    {
+        "item_id": 7479,
+        "item_name": " Coca Cola Cherry Vanilla "
+    },
+    {
+        "item_id": 7480,
+        "item_name": " Kitchen Fresh 1298 Enjoy Mixed Berry Overnight Oats with Granola "
+    },
+    {
+        "item_id": 7481,
+        "item_name": " Wonka SweeTarts Ropes Bites "
+    },
+    {
+        "item_id": 7482,
+        "item_name": " Aha Citrus & Green Tea Sparkling Water "
+    },
+    {
+        "item_id": 7484,
+        "item_name": " Aha Orange & Grapefruit Sparkling Water "
+    },
+    {
+        "item_id": 7485,
+        "item_name": " Aha Lime & Watermelon Sparkling Water "
+    },
+    {
+        "item_id": 7486,
+        "item_name": " Nutibles Peanut Butter Coated Puffs "
+    },
+    {
+        "item_id": 7488,
+        "item_name": " Cheetos Puffs "
+    },
+    {
+        "item_id": 7489,
+        "item_name": " Healthy Choice Sweet Sesame Chicken "
+    },
+    {
+        "item_id": 7490,
+        "item_name": " Forto French Vanilla Strong Energy Drink "
+    },
+    {
+        "item_id": 7491,
+        "item_name": " Herrs Creamy Ranch & Habanero Chips "
+    },
+    {
+        "item_id": 7492,
+        "item_name": " Nemos Zesty Lemon Bread "
+    },
+    {
+        "item_id": 7493,
+        "item_name": " Kirkland Signature Sparkling Orange Mango "
+    },
+    {
+        "item_id": 7494,
+        "item_name": " Kirkland Signature Sparkling Kiwi Strawberry "
+    },
+    {
+        "item_id": 7495,
+        "item_name": " Taylor Farms Chef Salad "
+    },
+    {
+        "item_id": 7496,
+        "item_name": " Taylor Farms Southwest Salad "
+    },
+    {
+        "item_id": 7497,
+        "item_name": " Taylor Farms Bacon Breakfast Bowl "
+    },
+    {
+        "item_id": 7498,
+        "item_name": " Taylor Farms Sausage English Muffin "
+    },
+    {
+        "item_id": 7499,
+        "item_name": " Taylor Farms Breakfast Burrito Egg Cheddar Roasted Potato "
+    },
+    {
+        "item_id": 7500,
+        "item_name": " Reeses Snack Mix "
+    },
+    {
+        "item_id": 7501,
+        "item_name": " Mrs. Freshleys Cinnamon Swirl Bun "
+    },
+    {
+        "item_id": 7502,
+        "item_name": " Dunkin Donuts Espresso Iced Coffee "
+    },
+    {
+        "item_id": 7503,
+        "item_name": " Sundia TrueFruit Perfect Peaches "
+    },
+    {
+        "item_id": 7504,
+        "item_name": " Sundia TrueFruit Cherry Medley "
+    },
+    {
+        "item_id": 7506,
+        "item_name": " Phocus Yuzu & Lime Sparkling Water "
+    },
+    {
+        "item_id": 7507,
+        "item_name": " Herrs Carolina Reaper Hot Cheese Curls "
+    },
+    {
+        "item_id": 7508,
+        "item_name": " Grove Street Chocolate Swirl Cheesecake "
+    },
+    {
+        "item_id": 7509,
+        "item_name": " Hello Water Pineapple Coconut "
+    },
+    {
+        "item_id": 7510,
+        "item_name": " Hello Water Orange Mango "
+    },
+    {
+        "item_id": 7511,
+        "item_name": " Cheetos Flamin' Hot "
+    },
+    {
+        "item_id": 7512,
+        "item_name": " Cheetos Flamin' Hot Limon "
+    },
+    {
+        "item_id": 7513,
+        "item_name": " Smartfood White Cheddar Popcorn "
+    },
+    {
+        "item_id": 7514,
+        "item_name": " Fritos Flamin Hot "
+    },
+    {
+        "item_id": 7515,
+        "item_name": " Sabritas Turbos Flamas "
+    },
+    {
+        "item_id": 7516,
+        "item_name": " Cheesewich Uncured Turkey Baconwich "
+    },
+    {
+        "item_id": 7517,
+        "item_name": " Mountain Dew Rise Strawberry Melon Spark "
+    },
+    {
+        "item_id": 7518,
+        "item_name": " Bang Purple Haze Energy Shot "
+    },
+    {
+        "item_id": 7519,
+        "item_name": " Bang Strawberry Blast Energy Shot "
+    },
+    {
+        "item_id": 7520,
+        "item_name": " Bang Candy Apple Crisp Energy Shot "
+    },
+    {
+        "item_id": 7521,
+        "item_name": " Farmers Fridge North Napa Salad "
+    },
+    {
+        "item_id": 7522,
+        "item_name": " Farmers Fridge Southwest Salad with Chipotle Chicken "
+    },
+    {
+        "item_id": 7523,
+        "item_name": " Farmers Fridge Smoked Cheddar Cobb Salad "
+    },
+    {
+        "item_id": 7524,
+        "item_name": " Farmers Fridge Apple Cinnamon Oats "
+    },
+    {
+        "item_id": 7525,
+        "item_name": " Farmers Fridge Almond Butter Oats "
+    },
+    {
+        "item_id": 7526,
+        "item_name": " Farmers Fridge Green Goddess Salad "
+    },
+    {
+        "item_id": 7527,
+        "item_name": " Ready Fruit Punch Sports Drink "
+    },
+    {
+        "item_id": 7528,
+        "item_name": " Utz Baked Cheddar Cheese Balls "
+    },
+    {
+        "item_id": 7529,
+        "item_name": " Dunkaroos Vanilla Cookies with Vanilla Frosting Rainbow Sprinkles "
+    },
+    {
+        "item_id": 7530,
+        "item_name": " Kitchen Fresh 1306 Pizza Pasta Bowl "
+    },
+    {
+        "item_id": 7531,
+        "item_name": " Farmers Fridge Italian Turkey Wrap "
+    },
+    {
+        "item_id": 7532,
+        "item_name": " Farmers Fridge Pesto Pasta Salad "
+    },
+    {
+        "item_id": 7533,
+        "item_name": " Farmers Fridge Thai Noodle Bowl "
+    },
+    {
+        "item_id": 7534,
+        "item_name": " Farmers Fridge Turkey Apple White Cheddar Wrap "
+    },
+    {
+        "item_id": 7535,
+        "item_name": " Visine Red Eye "
+    },
+    {
+        "item_id": 7536,
+        "item_name": " Grand Prairie Chicken Pot Pie "
+    },
+    {
+        "item_id": 7537,
+        "item_name": " Mountain Dew Amp Game Fuel Charged Tropical Strike "
+    },
+    {
+        "item_id": 7541,
+        "item_name": " Classic Cookie Soft Baked Cinnabon Cinnamon & Cream Cheese Chip Cooki "
+    },
+    {
+        "item_id": 7542,
+        "item_name": " Classic Cookie Soft Baked Peanut Butter Reeses Chips "
+    },
+    {
+        "item_id": 7543,
+        "item_name": " Kitchen Fresh 1249 French Bread Breakfast Pizza "
+    },
+    {
+        "item_id": 7544,
+        "item_name": " Mountain Dew Major Melon "
+    },
+    {
+        "item_id": 7545,
+        "item_name": " Progresso Toppers Chicken Noodle Soup with Oyster Crackers "
+    },
+    {
+        "item_id": 7546,
+        "item_name": " Progresso Toppers Tomato Basil Soup with Cheddar Crackers "
+    },
+    {
+        "item_id": 7547,
+        "item_name": " Kitchen Fresh 1250 Protein Snack Pack "
+    },
+    {
+        "item_id": 7548,
+        "item_name": " Kitchen Fresh 1296 1/4lb BBQ Bacon Cheeseburger "
+    },
+    {
+        "item_id": 7550,
+        "item_name": " Fanta Wild Cherry "
+    },
+    {
+        "item_id": 7552,
+        "item_name": " Dasani Black Cherry Sparkling Water "
+    },
+    {
+        "item_id": 7554,
+        "item_name": " Kitchen Fresh 1247 Bologna on White Flat Pack Sandwich "
+    },
+    {
+        "item_id": 7555,
+        "item_name": " Mountain Dew Kickstart Energizing Original Dew "
+    },
+    {
+        "item_id": 7556,
+        "item_name": " TGIF Sriracha Ranch Potato Skins "
+    },
+    {
+        "item_id": 7557,
+        "item_name": " Hersheys Popped Snack Mix "
+    },
+    {
+        "item_id": 7562,
+        "item_name": " Utz Baked Cheddar Cheese Balls "
+    },
+    {
+        "item_id": 7564,
+        "item_name": " Prairie Farms Premium Chocolate Milk "
+    },
+    {
+        "item_id": 7565,
+        "item_name": " C4 Zero Sugar Frozen Bombsicle Energy "
+    },
+    {
+        "item_id": 7566,
+        "item_name": " C4 Zero Sugar Strawberry Watermelon Ice Energy "
+    },
+    {
+        "item_id": 7567,
+        "item_name": " Kitchen Fresh 1082 Turkey Bacon Ranch Salad Sandwich "
+    },
+    {
+        "item_id": 7569,
+        "item_name": " Kitchen Fresh 1303 Chicken Snacker with Ranch "
+    },
+    {
+        "item_id": 7570,
+        "item_name": " Campbells V8 + Energy Sparkling Strawberry Kiwi "
+    },
+    {
+        "item_id": 7571,
+        "item_name": " Organic Valley Sausage & Pepperjack Egg Bites "
+    },
+    {
+        "item_id": 7572,
+        "item_name": " Sprite Winter Spiced Cranberry "
+    },
+    {
+        "item_id": 7573,
+        "item_name": " Mrs. Freshleys Double Chocolate Muffin "
+    },
+    {
+        "item_id": 7574,
+        "item_name": " Argires Savory Hot Cheezy Cheddarcorn "
+    },
+    {
+        "item_id": 7575,
+        "item_name": " Avieta Liege Waffle with Pearl Sugar "
+    },
+    {
+        "item_id": 7576,
+        "item_name": " Farmers Fridge Buffalo Chicken Ranch "
+    },
+    {
+        "item_id": 7577,
+        "item_name": " Farmers Fridge Burrito Bowl "
+    },
+    {
+        "item_id": 7578,
+        "item_name": " Farmers Fridge Falafel Bowl "
+    },
+    {
+        "item_id": 7579,
+        "item_name": " Farmers Fridge Greek Salad "
+    },
+    {
+        "item_id": 7580,
+        "item_name": " Farmers Fridge Harvest Salad "
+    },
+    {
+        "item_id": 7581,
+        "item_name": " BodyArmor Edge Tropical Chaos "
+    },
+    {
+        "item_id": 7582,
+        "item_name": " BodyArmor Edge Power Punch "
+    },
+    {
+        "item_id": 7583,
+        "item_name": " Coca Cola Caramel with Coffee "
+    },
+    {
+        "item_id": 7584,
+        "item_name": " Grand Prairie BBQ Rib Sandwich "
+    },
+    {
+        "item_id": 7585,
+        "item_name": " BodyArmor Edge Berry Blitz "
+    },
+    {
+        "item_id": 7586,
+        "item_name": " Frigo Cheeseheads Original String Cheese "
+    },
+    {
+        "item_id": 7587,
+        "item_name": " Argires Cheese & Caramel Popcorn "
+    },
+    {
+        "item_id": 7589,
+        "item_name": " Starburst Original Minis "
+    },
+    {
+        "item_id": 7590,
+        "item_name": " Grand Prairie Sriracha Breakfast Bowl "
+    },
+    {
+        "item_id": 7591,
+        "item_name": " Core Power High Protein Chocolate Milk Shake "
+    },
+    {
+        "item_id": 7592,
+        "item_name": " Core Power High Protein Vanilla Milk Shake "
+    },
+    {
+        "item_id": 7593,
+        "item_name": " Coca Cola Zero Sugar Dark Blend with Coffee "
+    },
+    {
+        "item_id": 7594,
+        "item_name": " Coca Cola Zero Sugar Vanilla with Coffee "
+    },
+    {
+        "item_id": 7595,
+        "item_name": " Kars Caramel Sweet n Salty Trail Mix "
+    },
+    {
+        "item_id": 7596,
+        "item_name": " Bubly Bounce Mango Passionfruit Caffeinated Sparkling Water "
+    },
+    {
+        "item_id": 7597,
+        "item_name": " Ready Nutrition Clean Dark Chocolate Sea Salt Bar "
+    },
+    {
+        "item_id": 7598,
+        "item_name": " Farmers Fridge Pineapple Coconut Chia Pudding "
+    },
+    {
+        "item_id": 7599,
+        "item_name": " Farmers Fridge Truffle CousCous "
+    },
+    {
+        "item_id": 7600,
+        "item_name": " Farmers Fridge Homestyle Chicken Dumplings "
+    },
+    {
+        "item_id": 7601,
+        "item_name": " Aha Mango + Black Tea Caffeine Sparkling Water "
+    },
+    {
+        "item_id": 7602,
+        "item_name": " Farmers Fridge Red Chile Braised Pork Bowl "
+    },
+    {
+        "item_id": 7603,
+        "item_name": " Pepperidge Farm Chessman Minis "
+    },
+    {
+        "item_id": 7606,
+        "item_name": " Reign Total Body Fuel Melon Mania "
+    },
+    {
+        "item_id": 7607,
+        "item_name": " Reign Total Body Fuel Lemon HDZ "
+    },
+    {
+        "item_id": 7608,
+        "item_name": " Reign Total Body Fuel Razzle Berry "
+    },
+    {
+        "item_id": 7609,
+        "item_name": " Mrs. Freshleys Cookies & Creme Mini Donuts "
+    },
+    {
+        "item_id": 7612,
+        "item_name": " Air Heads Soft Filled Bites 6 Sweetly Sour Flavors "
+    },
+    {
+        "item_id": 7613,
+        "item_name": " Kitchen Fresh 1278 Enjoy New Orleans Style Muffaletta "
+    },
+    {
+        "item_id": 7614,
+        "item_name": " Coca Cola Cherry Energy "
+    },
+    {
+        "item_id": 7615,
+        "item_name": " Glaceau Smart Water Cucumber Lime "
+    },
+    {
+        "item_id": 7616,
+        "item_name": " Coca Cola Zero Sugar Energy "
+    },
+    {
+        "item_id": 7617,
+        "item_name": " Fritos "
+    },
+    {
+        "item_id": 7619,
+        "item_name": " Buona Chicago Italian Beef Sandwich "
+    },
+    {
+        "item_id": 7620,
+        "item_name": " Glaceau Smart Water Strawberry Blackberry "
+    },
+    {
+        "item_id": 7621,
+        "item_name": " Mountain Dew Zero Sugar "
+    },
+    {
+        "item_id": 7622,
+        "item_name": " Coca Cola Energy "
+    },
+    {
+        "item_id": 7623,
+        "item_name": " Campbells V8 + Energy Sparkling Orange Pineapple "
+    },
+    {
+        "item_id": 7624,
+        "item_name": " Kitchen Fresh 1299 Spicy Chicken Tenders with Franks Buffalo Sauce "
+    },
+    {
+        "item_id": 7625,
+        "item_name": " Kitchen Fresh 1300 Spicy Chicken Tenders with Ranch "
+    },
+    {
+        "item_id": 7626,
+        "item_name": " Kitchen Fresh 1301 Chicken Tenders with BBQ "
+    },
+    {
+        "item_id": 7627,
+        "item_name": " Kitchen Fresh 1302 Chicken Tenders with Honey Mustard "
+    },
+    {
+        "item_id": 7630,
+        "item_name": " LaCroix Pineapple Strawberry Sparkling Water "
+    },
+    {
+        "item_id": 7631,
+        "item_name": " Kitchen Fresh 1172 Caramel Delight Parfait "
+    },
+    {
+        "item_id": 7632,
+        "item_name": " Kitchen Fresh 1170 Mac Daddy Hot Dog "
+    },
+    {
+        "item_id": 7633,
+        "item_name": " Kitchen Fresh 1169 Rueben Hot Dog "
+    },
+    {
+        "item_id": 7634,
+        "item_name": " Kitchen Fresh 1168 Taco Hot Dog "
+    },
+    {
+        "item_id": 7635,
+        "item_name": " Kitchen Fresh 1167 Pizza Hot Dog "
+    },
+    {
+        "item_id": 7637,
+        "item_name": " Oh Snap Hottie Bites "
+    },
+    {
+        "item_id": 7638,
+        "item_name": " Kitchen Fresh 1297 Popcorn Chicken Mega Bowl "
+    },
+    {
+        "item_id": 7639,
+        "item_name": " Skinny Souping Red Pepper Chickpea Basil Soup "
+    },
+    {
+        "item_id": 7640,
+        "item_name": " Skinny Souping Tomato & Ancient Grain Soup "
+    },
+    {
+        "item_id": 7641,
+        "item_name": " Skinny Souping Carrot Lentil Turmeric Soup "
+    },
+    {
+        "item_id": 7642,
+        "item_name": " Skinny Souping Butternut Squash Coconut Curry Soup "
+    },
+    {
+        "item_id": 7645,
+        "item_name": " Red Bull Sugar Free Pear Energy Drink "
+    },
+    {
+        "item_id": 7646,
+        "item_name": " Diet Coke Feisty Cherry "
+    },
+    {
+        "item_id": 7647,
+        "item_name": " Snapple Black Cherry Lemonade "
+    },
+    {
+        "item_id": 7648,
+        "item_name": " Snapple Watermelon Lemonade PL "
+    },
+    {
+        "item_id": 7650,
+        "item_name": " Kitchen Fresh 1103 Chicken Salad Whole Wheat Sub "
+    },
+    {
+        "item_id": 7651,
+        "item_name": " Kitchen Fresh 1101 Shaved Turkey Wheat Sub with FF Mayo "
+    },
+    {
+        "item_id": 7652,
+        "item_name": " Kitchen Fresh 1109 Shaved Ham Wheat Sub with Fat Free Mayo "
+    },
+    {
+        "item_id": 7653,
+        "item_name": " Kitchen Fresh 1102 Tuna Salad on Light Wheat Bun "
+    },
+    {
+        "item_id": 7654,
+        "item_name": " Minute Maid Cranberry Grape Juice Bottle "
+    },
+    {
+        "item_id": 7655,
+        "item_name": " Jays Regular Chips "
+    },
+    {
+        "item_id": 7656,
+        "item_name": " Silk Almond Original Almond Milk "
+    },
+    {
+        "item_id": 7657,
+        "item_name": " LaCroix Tangerine Sparkling Water "
+    },
+    {
+        "item_id": 7660,
+        "item_name": " Ready Peach Mango Sports Drink "
+    },
+    {
+        "item_id": 7661,
+        "item_name": " Cool Beans Tikka Masala "
+    },
+    {
+        "item_id": 7662,
+        "item_name": " Cool Beans Spicy Chipotle "
+    },
+    {
+        "item_id": 7663,
+        "item_name": " Cool Beans Moroccan Gold "
+    },
+    {
+        "item_id": 7664,
+        "item_name": " Ready Nutrition Clean Vanilla Swirl Protein Bar "
+    },
+    {
+        "item_id": 7665,
+        "item_name": " Prepared Wrap\n"
+    },
+    {
+        "item_id": 7666,
+        "item_name": " Ruffles Cheddar Sour Cream "
+    },
+    {
+        "item_id": 7667,
+        "item_name": " Campbells V8 + Energy Orange Pineapple "
+    },
+    {
+        "item_id": 7668,
+        "item_name": " Kitchen Fresh 1054 Buffalo Snacker "
+    },
+    {
+        "item_id": 7669,
+        "item_name": " Kitchen Fresh 1055 Turkey Kaiser "
+    },
+    {
+        "item_id": 7671,
+        "item_name": " Taylor Farms Chicken Caesar Wrap "
+    },
+    {
+        "item_id": 7672,
+        "item_name": " Taylor Farms Turkey Club Wrap "
+    },
+    {
+        "item_id": 7673,
+        "item_name": " Taylor Farms Italian Wrap "
+    },
+    {
+        "item_id": 7674,
+        "item_name": " Taylor Farms Sunrise Snack Box "
+    },
+    {
+        "item_id": 7675,
+        "item_name": " Taylor Farms Turkey Pinwheel Snack Box "
+    },
+    {
+        "item_id": 7676,
+        "item_name": " Kirkland Signature Sparkling Grapefruit "
+    },
+    {
+        "item_id": 7677,
+        "item_name": " Kirkland Signature Sparkling Lime "
+    },
+    {
+        "item_id": 7678,
+        "item_name": " Kirkland Signature Sparkling Lemon "
+    },
+    {
+        "item_id": 7679,
+        "item_name": " Fruit Cup 2\n"
+    },
+    {
+        "item_id": 7680,
+        "item_name": " Kitchen Fresh 1235 Enjoy Classic Cobb Salad with Red Wine Vin "
+    },
+    {
+        "item_id": 7681,
+        "item_name": " Kitchen Fresh 1236 Enjoy Pepperoni & Cheese Tray Grapes & Crackers "
+    },
+    {
+        "item_id": 7682,
+        "item_name": " Kitchen Fresh 1237 Enjoy The Godfather "
+    },
+    {
+        "item_id": 7683,
+        "item_name": " Kitchen Fresh 1238 Enjoy Carved Smoked Turkey Club Multigrain Wrap "
+    },
+    {
+        "item_id": 7684,
+        "item_name": " Kitchen Fresh 1239 Enjoy Spinach Salad Sweet Dijon Mustard Dressing"
+    },
+    {
+        "item_id": 7688,
+        "item_name": " Karma Blueberry Lemonade Wellness Water "
+    },
+    {
+        "item_id": 7690,
+        "item_name": " Monster Energy Ultra Paradise "
+    },
+    {
+        "item_id": 7692,
+        "item_name": " Dots Homestyle Pretzels "
+    },
+    {
+        "item_id": 7693,
+        "item_name": " Sprite Lymonade "
+    },
+    {
+        "item_id": 7694,
+        "item_name": " Muscle Milk Cookies N Cream Protein Bar "
+    },
+    {
+        "item_id": 7695,
+        "item_name": " Kitchen Fresh 1304 Beef Curry & White Rice Stir Fry "
+    },
+    {
+        "item_id": 7696,
+        "item_name": " Cheezits Baked Snack Mix Double Cheese "
+    },
+    {
+        "item_id": 7697,
+        "item_name": " Original Gourmet Lollipops "
+    },
+    {
+        "item_id": 7698,
+        "item_name": " Farmers Fridge Berries & Granola Greek Yogurt "
+    },
+    {
+        "item_id": 7701,
+        "item_name": " Bubly Limebubly Sparkling Water "
+    },
+    {
+        "item_id": 7703,
+        "item_name": " Wandering Bear Mocha "
+    },
+    {
+        "item_id": 7704,
+        "item_name": " Kellogg Pop Tarts Splitz Sugar Cookie Brownie Batter "
+    },
+    {
+        "item_id": 7705,
+        "item_name": " Coca Cola Orange Vanilla "
+    },
+    {
+        "item_id": 7706,
+        "item_name": " Grand Prairie Scrambled Egg Sausage Crumble Cheddar Pepper Onion "
+    },
+    {
+        "item_id": 7707,
+        "item_name": " Cheezits Snap'd Cheddar Sour Cream & Onion "
+    },
+    {
+        "item_id": 7710,
+        "item_name": " Jarritos Sangria Senorial "
+    },
+    {
+        "item_id": 7711,
+        "item_name": " Kitchen Fresh 1965 Roast Beef & Cheese Wedge "
+    },
+    {
+        "item_id": 7712,
+        "item_name": " Kitchen Fresh 1524 Jalapeno Cheddar Beef Stick & Ranch Cheese Curd "
+    },
+    {
+        "item_id": 7713,
+        "item_name": " Kitchen Fresh 1525 Teriyaki Beef Stick & Cheddar Cheese Curd "
+    },
+    {
+        "item_id": 7714,
+        "item_name": " Kitchen Fresh 1664 Chicken & Cheddar Sandwich "
+    },
+    {
+        "item_id": 7715,
+        "item_name": " Daisy Cottage Cheese with Pineapple "
+    },
+    {
+        "item_id": 7716,
+        "item_name": " Daisy Cottage Cheese with Strawberry "
+    },
+    {
+        "item_id": 7717,
+        "item_name": " Daisy Cottage Cheese with Blueberry "
+    },
+    {
+        "item_id": 7718,
+        "item_name": " Organic Valley Ham & Swiss Egg Bites "
+    },
+    {
+        "item_id": 7719,
+        "item_name": " Farmers Fridge Sonoma Salad "
+    },
+    {
+        "item_id": 7721,
+        "item_name": " Chicago Cheese Deep Dish Pizza "
+    },
+    {
+        "item_id": 7722,
+        "item_name": " Jif Power Ups Creamy Peanut Butter Granola Bar "
+    },
+    {
+        "item_id": 7723,
+        "item_name": " Campbells Well Yes Tomato & Sweet Basil Soup "
+    },
+    {
+        "item_id": 7724,
+        "item_name": " Air Heads Extremes Sour Belts Rainbow Berry "
+    },
+    {
+        "item_id": 7727,
+        "item_name": " Kellogg Rice Krispies Cookies & Creme Poppers "
+    },
+    {
+        "item_id": 7728,
+        "item_name": " Kellogg Rice Krispies Chocolatey Poppers "
+    },
+    {
+        "item_id": 7729,
+        "item_name": " Prairie Farms 2% Milk "
+    },
+    {
+        "item_id": 7730,
+        "item_name": " Kitchen Fresh 1937 Sausage Egg & Cheese Muffin "
+    },
+    {
+        "item_id": 7731,
+        "item_name": " Kitchen Fresh 1966 Double Cheeseburger "
+    },
+    {
+        "item_id": 7733,
+        "item_name": " Lays Regular Chips "
+    },
+    {
+        "item_id": 7734,
+        "item_name": " Ruffles Cheddar Sour Cream "
+    },
+    {
+        "item_id": 7737,
+        "item_name": " Kitchen Fresh 1294 Nashville Hot Chicken Biscuit "
+    },
+    {
+        "item_id": 7738,
+        "item_name": " Powerade Ultra Mixed Berry "
+    },
+    {
+        "item_id": 7739,
+        "item_name": " Wild Things Skinny Dipped Dark Chocolate Peanut Butter Almonds "
+    },
+    {
+        "item_id": 7741,
+        "item_name": " Grand Prairie Grilled Buffalo Chicken Pepperjack on Brioche "
+    },
+    {
+        "item_id": 7742,
+        "item_name": " Pringles BBQ "
+    },
+    {
+        "item_id": 7743,
+        "item_name": " Aha Blueberry & Pomegranate Sparkling Water "
+    },
+    {
+        "item_id": 7744,
+        "item_name": " Aha Citrus & Green Tea Sparkling Water "
+    },
+    {
+        "item_id": 7745,
+        "item_name": " Kind Frozen Dark Chocolate Almond Sea Salt Bar "
+    },
+    {
+        "item_id": 7746,
+        "item_name": " Kind Frozen Dark Chocolate Peanut Butter Bar "
+    },
+    {
+        "item_id": 7747,
+        "item_name": " Chester Fries Flamin' Hot "
+    },
+    {
+        "item_id": 7749,
+        "item_name": " Jays Hot Stuff Chips "
+    },
+    {
+        "item_id": 7750,
+        "item_name": " Tylenol Extra Strength "
+    },
+    {
+        "item_id": 7751,
+        "item_name": " Next Level Fitness Water "
+    },
+    {
+        "item_id": 7752,
+        "item_name": " Kirkland Signature Sparkling Black Raspberry "
+    },
+    {
+        "item_id": 7755,
+        "item_name": " Teddy Grahams Cinnamon "
+    },
+    {
+        "item_id": 7769,
+        "item_name": " Farmers Fridge Breakfast Bowl "
+    },
+    {
+        "item_id": 7770,
+        "item_name": " Wonderful Pistachios No Shells "
+    },
+    {
+        "item_id": 7771,
+        "item_name": " Dukes Honey Bourbon Beef Steak Strips "
+    },
+    {
+        "item_id": 7774,
+        "item_name": " Kirkland Signature Almond Cashew & Walnut Nut Bar "
+    },
+    {
+        "item_id": 7775,
+        "item_name": " El Monterey Egg Sausage Potato Breakfast Burrito "
+    },
+    {
+        "item_id": 7776,
+        "item_name": " Cheezits Grooves Zesty Cheddar Ranch "
+    },
+    {
+        "item_id": 7777,
+        "item_name": " Del Monte Pineapple Fruit Crunch Parfait "
+    },
+    {
+        "item_id": 8930,
+        "item_name": " Cheetos Simply White Cheddar Puffs "
+    },
+    {
+        "item_id": 9032,
+        "item_name": " Reign Total Body Fuel Orange Dreamsicle "
+    },
+    {
+        "item_id": 10003,
+        "item_name": " Kirkland Signature Trail Mix Snack Packs "
+    },
+    {
+        "item_id": 10465,
+        "item_name": " Talking Rain Blue Raspberry Sparkling ICE + Caffeine "
+    },
+    {
+        "item_id": 10528,
+        "item_name": " Ever Bar Dark Chocolate Wafer "
+    },
+    {
+        "item_id": 10731,
+        "item_name": " Yup Cookies N Creamiest 2% Milk "
+    },
+    {
+        "item_id": 10732,
+        "item_name": " Cadbury Milk Chocolate Bar "
+    },
+    {
+        "item_id": 10733,
+        "item_name": " Atkins Chocolate Peanut Butter Bar "
+    },
+    {
+        "item_id": 10734,
+        "item_name": " Coca Cola Vanilla with Coffee "
+    },
+    {
+        "item_id": 10735,
+        "item_name": " Coca Cola Dark Blend with Coffee "
+    },
+    {
+        "item_id": 10736,
+        "item_name": " Cheetos Cheddar Popcorn "
+    },
+    {
+        "item_id": 11071,
+        "item_name": " Bon Appetit Bakery 422 Cheese-N-Berries "
+    },
+    {
+        "item_id": 11073,
+        "item_name": " Bon Appetit Bakery 440 French Sweetie "
+    },
+    {
+        "item_id": 12076,
+        "item_name": " Kirkland Signature Purified Water "
+    },
+    {
+        "item_id": 12212,
+        "item_name": " Pringles Pizza "
+    },
+    {
+        "item_id": 12418,
+        "item_name": " Olli Salumeria Fontina Genoa Salami Cracker Snack Pack "
+    },
+    {
+        "item_id": 12629,
+        "item_name": " Talking Rain Strawberry Citrus Sparkling ICE "
+    },
+    {
+        "item_id": 12869,
+        "item_name": " Sour Patch Kids Crush Fruit Mix "
+    },
+    {
+        "item_id": 13032,
+        "item_name": " Frigo CheeseHeads Pepperjack Cheese "
+    },
+    {
+        "item_id": 14251,
+        "item_name": " Fanta Berry "
+    },
+    {
+        "item_id": 14900,
+        "item_name": " Cheetos Cheesy Jalapeno Mac n Cheese "
+    },
+    {
+        "item_id": 14915,
+        "item_name": " zzzGhirardelli Peppermint Bark Squares "
+    },
+    {
+        "item_id": 14922,
+        "item_name": " Cheetos Flamin Hot Mac n Cheese "
+    },
+    {
+        "item_id": 14923,
+        "item_name": " Cheetos Bold & Cheesy Mac n Cheese "
+    },
+    {
+        "item_id": 14925,
+        "item_name": " Sanders Milk Chocolate Sea Salt Caramels Minis "
+    },
+    {
+        "item_id": 14931,
+        "item_name": " Big AZ Spicy Chicken Sandwich "
+    },
+    {
+        "item_id": 14992,
+        "item_name": " Ready Nutrition Cinnamon Roll High Protein Bar "
+    },
+    {
+        "item_id": 14993,
+        "item_name": " Ready Nutrition Mint Chocolate Chip Ice Cream High Protein Bar "
+    },
+    {
+        "item_id": 15047,
+        "item_name": " Kitchen Fresh 1312 SW Fiesta Salad "
+    },
+    {
+        "item_id": 15048,
+        "item_name": " Kitchen Fresh 1311 Veggie Hummus Wrap "
+    },
+    {
+        "item_id": 15049,
+        "item_name": " Kitchen Fresh 1309 Roasted Potato Quinoa Wrap "
+    },
+    {
+        "item_id": 15050,
+        "item_name": " Kitchen Fresh 1308 Greek Salad "
+    },
+    {
+        "item_id": 15804,
+        "item_name": " Canada Dry Ginger Ale Can "
+    },
+    {
+        "item_id": 15810,
+        "item_name": " Dr Pepper Can "
+    },
+    {
+        "item_id": 15898,
+        "item_name": " Mountain Dew "
+    },
+    {
+        "item_id": 15902,
+        "item_name": " Pepsi "
+    },
+    {
+        "item_id": 17008,
+        "item_name": " Good To Go Red Pepper Hummus & Pita Chips "
+    },
+    {
+        "item_id": 17099,
+        "item_name": " Anytime Deli Turkey Ham & Cheese Flatbread Club "
+    },
+    {
+        "item_id": 17185,
+        "item_name": " Muscle Milk 100 Calories Chocolate "
+    },
+    {
+        "item_id": 17439,
+        "item_name": " AKD 5in Cheese Pizza "
+    },
+    {
+        "item_id": 17504,
+        "item_name": " Albanese 12 Flavor Gummi Bears "
+    },
+    {
+        "item_id": 17525,
+        "item_name": " Lays Wavy Hickory BBQ "
+    },
+    {
+        "item_id": 17691,
+        "item_name": " Bubly Strawberrybubly Sparkling Water "
+    },
+    {
+        "item_id": 17720,
+        "item_name": " Red Bull Coconut Edition Coconut Berry Energy Drink "
+    },
+    {
+        "item_id": 17743,
+        "item_name": " Boulder Canyon Olive Oil Hickory BBQ Chips "
+    },
+    {
+        "item_id": 33069,
+        "item_name": " Frigo CheeseHeads Mild Cheddar Cheese "
+    },
+    {
+        "item_id": 33070,
+        "item_name": " Jack Links Original Beef Jerky "
+    },
+    {
+        "item_id": 33071,
+        "item_name": " Bai Narino Peach Tea "
+    },
+    {
+        "item_id": 33072,
+        "item_name": " Bai Boost Togo Tangerine Citrus "
+    },
+    {
+        "item_id": 33081,
+        "item_name": " Olli Salumeria Prosciutto Mozzarella Cracker Snack Pack "
+    },
+    {
+        "item_id": 33101,
+        "item_name": " Snyders Honey Mustard Onion Pretzel Pieces "
+    },
+    {
+        "item_id": 33118,
+        "item_name": " Cherry Coke "
+    },
+    {
+        "item_id": 33119,
+        "item_name": " Sprite Zero "
+    },
+    {
+        "item_id": 33136,
+        "item_name": " Perrier Lime Sparkling Water "
+    },
+    {
+        "item_id": 33163,
+        "item_name": " Naked Juice Blue Machine "
+    },
+    {
+        "item_id": 33165,
+        "item_name": " Think Thin White Chocolate Bar "
+    },
+    {
+        "item_id": 33168,
+        "item_name": " Fast Choice Double Beef Stacker with Cheese #1342 "
+    },
+    {
+        "item_id": 33197,
+        "item_name": " GURU Energy Drink 100% Natural "
+    },
+    {
+        "item_id": 33239,
+        "item_name": " Kirkland VitaRain Zero Raspberry Green Tea "
+    },
+    {
+        "item_id": 33355,
+        "item_name": " Sahale Tangerine Vanilla Cashew Macadamia "
+    },
+    {
+        "item_id": 33363,
+        "item_name": " Awake Caffeinated Caramel Chocolate Bite "
+    },
+    {
+        "item_id": 33371,
+        "item_name": " Celsius Sparkling Watermelon "
+    },
+    {
+        "item_id": 33382,
+        "item_name": " Fanta Green Apple "
+    },
+    {
+        "item_id": 33432,
+        "item_name": " Kellogg Pop Tarts Bites Frosted Strawberry "
+    },
+    {
+        "item_id": 33433,
+        "item_name": " Aha Blueberry & Pomegranate Sparkling Water "
+    },
+    {
+        "item_id": 33446,
+        "item_name": " Wonka Nerds Gummy Clusters "
+    },
+    {
+        "item_id": 33492,
+        "item_name": " International Delight Caramel Macchiato Iced Coffee "
+    },
+    {
+        "item_id": 33499,
+        "item_name": " Oatly Original Oat Milk "
+    },
+    {
+        "item_id": 33505,
+        "item_name": " Lays Salt & Vinegar "
+    },
+    {
+        "item_id": 33514,
+        "item_name": " Pierre Signature BBQ Rib Sandwich "
+    },
+    {
+        "item_id": 33563,
+        "item_name": " Vita Coco Coconut Water "
+    },
+    {
+        "item_id": 33696,
+        "item_name": " Acqua Panna Natural Spring Water Plastic "
+    },
+    {
+        "item_id": 33723,
+        "item_name": " Health-Ade Ginger Lemon Kombucha "
+    },
+    {
+        "item_id": 33782,
+        "item_name": " Trolli Sour Brite Crawlers Very Berry "
+    },
+    {
+        "item_id": 33787,
+        "item_name": " Sunkist Strawberry Lemonade "
+    },
+    {
+        "item_id": 33810,
+        "item_name": " Ever & Ever Still Water "
+    },
+    {
+        "item_id": 33856,
+        "item_name": " Doritos Flamin Hot Cool Ranch "
+    },
+    {
+        "item_id": 33861,
+        "item_name": " Oatly 100% Vegan Chocolate Oat Milk "
+    },
+    {
+        "item_id": 33911,
+        "item_name": " Runa Clean Energy Wild Black Cherry "
+    },
+    {
+        "item_id": 33912,
+        "item_name": " Runa Clean Energy Tropical Passionfruit "
+    },
+    {
+        "item_id": 33914,
+        "item_name": " Vita Coco Boosted Chai Coconut Water & MCT "
+    },
+    {
+        "item_id": 33915,
+        "item_name": " Vita Coco Pressed Coconut Water "
+    },
+    {
+        "item_id": 33916,
+        "item_name": " Vita Coco Boosted Coconut Chocolate Coconut Water & MCT "
+    },
+    {
+        "item_id": 33950,
+        "item_name": " Kitchen Fresh 776 Apples "
+    },
+    {
+        "item_id": 34018,
+        "item_name": " Kinder Bueno Chocolate Bar "
+    },
+    {
+        "item_id": 34048,
+        "item_name": " Pop Daddy Garlic Parmesan Pretzel Sticks "
+    },
+    {
+        "item_id": 34049,
+        "item_name": " Kitchen Fresh 1310 Biscuit & Sausage Gravy "
+    },
+    {
+        "item_id": 34050,
+        "item_name": " Kitchen Fresh 1313 Medium Chef Salad Turkey w/ Ranch "
+    },
+    {
+        "item_id": 34054,
+        "item_name": " Red Bull Winter Edition Pomegranate "
+    },
+    {
+        "item_id": 34062,
+        "item_name": " Perrier Pink Grapefruit Sparkling Water "
+    },
+    {
+        "item_id": 34064,
+        "item_name": " Air Heads Bites Fruit "
+    },
+    {
+        "item_id": 34078,
+        "item_name": " Hersheys Special Dark "
+    },
+    {
+        "item_id": 34079,
+        "item_name": " Ritz Peanut Butter Cracker Sandwich "
+    },
+    {
+        "item_id": 34080,
+        "item_name": " York Peppermint Patties "
+    },
+    {
+        "item_id": 34081,
+        "item_name": " Sour Patch Kids "
+    },
+    {
+        "item_id": 34084,
+        "item_name": " Classic Delight Sausage Egg & Cheese Muffin "
+    },
+    {
+        "item_id": 34085,
+        "item_name": " Classic Delight Sausage Egg & Cheese Muffin "
+    },
+    {
+        "item_id": 34095,
+        "item_name": " BodyArmor Strawberry Grape SuperDrink "
+    },
+    {
+        "item_id": 34098,
+        "item_name": " Mountain Dew Spark "
+    },
+    {
+        "item_id": 34099,
+        "item_name": " Mountain Dew Spark "
+    },
+    {
+        "item_id": 34101,
+        "item_name": " Cheezits Snap'd Cheddar Sour Cream & Onion "
+    },
+    {
+        "item_id": 34122,
+        "item_name": " Diet Snapple Lemon Iced Tea PL "
+    },
+    {
+        "item_id": 34139,
+        "item_name": " Kellogg Rice Krispies Double Chocolate Chunk "
+    },
+    {
+        "item_id": 34188,
+        "item_name": " Popcorners Kettle Corn "
+    },
+    {
+        "item_id": 34208,
+        "item_name": " Whoppers "
+    },
+    {
+        "item_id": 34209,
+        "item_name": " YumEarth Pomegranate Licorice "
+    },
+    {
+        "item_id": 34210,
+        "item_name": " Wonka Laffy Taffy Cherry "
+    },
+    {
+        "item_id": 34211,
+        "item_name": " YumEarth Soft-Eating Strawberry Licorice "
+    },
+    {
+        "item_id": 34212,
+        "item_name": " Tootsie Roll Dots Gumdrops "
+    },
+    {
+        "item_id": 34213,
+        "item_name": " Dietz Nuts Meat Bites Honey Maple Smoked Sausage "
+    },
+    {
+        "item_id": 34226,
+        "item_name": " Jarritos Tamarind "
+    },
+    {
+        "item_id": 34227,
+        "item_name": " Jarritos Mandarin "
+    },
+    {
+        "item_id": 34228,
+        "item_name": " Jarritos Sidral Mundet Apple "
+    },
+    {
+        "item_id": 34229,
+        "item_name": " Jarritos Sangria Senorial "
+    },
+    {
+        "item_id": 34230,
+        "item_name": " Jack Links Cold Crafted Mozzarella & Uncured Pepperoni "
+    },
+    {
+        "item_id": 34233,
+        "item_name": " Klements Original Snack Sticks "
+    },
+    {
+        "item_id": 34236,
+        "item_name": " Cloverhill Jumbo Chocolate Iced Honey Bun "
+    },
+    {
+        "item_id": 34245,
+        "item_name": " Bubly Strawberrybubly Sparkling Water "
+    },
+    {
+        "item_id": 34288,
+        "item_name": " Dirty Chips Maui Onion "
+    },
+    {
+        "item_id": 34294,
+        "item_name": " Florida's Natural Growers Pride Orange Juice "
+    },
+    {
+        "item_id": 34295,
+        "item_name": " Florida's Natural Growers Pride Orange Juice "
+    },
+    {
+        "item_id": 34296,
+        "item_name": " Florida's Natural Growers Pride Orange Juice "
+    },
+    {
+        "item_id": 34302,
+        "item_name": " Sunkist Zero Sugar "
+    },
+    {
+        "item_id": 34303,
+        "item_name": " Andy Capp Cheddar Fries "
+    },
+    {
+        "item_id": 34304,
+        "item_name": " Sundia TrueFruit Ruby Grapefruit "
+    },
+    {
+        "item_id": 34305,
+        "item_name": " Starburst FaveReds Fruit Chews "
+    },
+    {
+        "item_id": 34306,
+        "item_name": " Red Bull Winter Edition Arctic Berry "
+    },
+    {
+        "item_id": 34307,
+        "item_name": " Pop Daddy Yellow Mustard Pretzel Sticks "
+    },
+    {
+        "item_id": 34308,
+        "item_name": " Twizzlers Strawberry Peg Bag "
+    },
+    {
+        "item_id": 34309,
+        "item_name": " Post Fruity Pebbles Candy Bar "
+    },
+    {
+        "item_id": 34310,
+        "item_name": " Post Cocoa Pebbles Candy Bar "
+    },
+    {
+        "item_id": 34311,
+        "item_name": " Farmers Fridge Pecan Pie Bites "
+    },
+    {
+        "item_id": 34312,
+        "item_name": " Post Fruity Pebbles Birthday Cake Candy Bar "
+    },
+    {
+        "item_id": 34342,
+        "item_name": " Muscle Milk 100 Calories Chocolate "
+    },
+    {
+        "item_id": 34349,
+        "item_name": " Coca Cola Starlight "
+    },
+    {
+        "item_id": 34353,
+        "item_name": " Coca Cola Zero Sugar Starlight "
+    },
+    {
+        "item_id": 34423,
+        "item_name": " Good To Go Red Pepper Hummus & Pita Chips "
+    },
+    {
+        "item_id": 34424,
+        "item_name": " Anytime Deli Turkey Ham & Cheese Flatbread Club "
+    },
+    {
+        "item_id": 34425,
+        "item_name": " AKD 5in Cheese Pizza "
+    },
+    {
+        "item_id": 34473,
+        "item_name": " Ruffles Flamin Hot Cheddar Sour Cream "
+    },
+    {
+        "item_id": 34481,
+        "item_name": " Naturipe Bliss Bento Salty Caramelicious "
+    },
+    {
+        "item_id": 34489,
+        "item_name": " Farmers Fridge Elote Salad "
+    },
+    {
+        "item_id": 34490,
+        "item_name": " Farmers Fridge Apple Pecan Chicken Salad "
+    },
+    {
+        "item_id": 34495,
+        "item_name": " Argires Savory Hot Cheezy Cheddarcorn "
+    },
+    {
+        "item_id": 34496,
+        "item_name": " Argires Savory Hot Cheezy Cheddarcorn "
+    },
+    {
+        "item_id": 37230,
+        "item_name": " Farmers Fridge Napa Chickpea Wrap "
+    },
+    {
+        "item_id": 37235,
+        "item_name": " Aha Fuji Apple + White Tea Sparkling Water "
+    },
+    {
+        "item_id": 37241,
+        "item_name": " Boston Market Salisbury Steak "
+    },
+    {
+        "item_id": 37242,
+        "item_name": " 5 Hour Energy Berry "
+    },
+    {
+        "item_id": 37243,
+        "item_name": " Naturipe Apples & Blueberries "
+    },
+    {
+        "item_id": 37247,
+        "item_name": " Kitchen Fresh 1821 Spicy Chicken & Swiss "
+    },
+    {
+        "item_id": 37365,
+        "item_name": " Del Monte Watermelon Chunks "
+    },
+    {
+        "item_id": 37366,
+        "item_name": " Del Monte Mixed Fruit Blend "
+    },
+    {
+        "item_id": 37367,
+        "item_name": " Del Monte Pineapple Chunks "
+    },
+    {
+        "item_id": 37390,
+        "item_name": " Del Monte Red Grapes #1500 "
+    }
+]
